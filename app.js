@@ -14,9 +14,17 @@ app.use(
     express.static(path.join(__dirname, "node_modules/bootstrap/dist/"))
 );
 
+let temperature = 0;
+let airQuality = 0;
+let population = 0; 
+let childrenAndPets = 0;
+let existingVegation = 0;
+let precipation = 0;
+let mentalHealth = 0;
+let landUse = 0;
 
 app.get('/', (req, res) => {
-    res.render('index.ejs')
+    res.render('index.ejs', {temperature: temperature, airQuality: airQuality, population: population, childrenAndPets: childrenAndPets, existingVegation: existingVegation, precipation: precipation, mentalHealth: mentalHealth, landUse: landUse});
 });
 
 app.listen(port, () => {

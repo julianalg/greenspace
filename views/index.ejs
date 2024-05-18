@@ -1,39 +1,78 @@
 <%- include("partials/header.ejs") %>
     <div class="preview">
         <div class="p-5 mb-4 bg-body-tertiary rounded-3">
-            <h1 class="title">Green space use in New York City</h1>
+            <h1 class="title">Green space use in
+                 <form>
+                    <select name="cities" id="cities">
+                        <option value="New York City">New York City, NY</option>
+                        <option value="Los Angeles">Los Angeles, CA</option>
+                        <option value="Boston">Boston, MA</option>
+                        <option value="San Diego">San Diego, CA</option>
+                    </select>
+                </form>
+                </h1>
             <img src="image.png" alt="central park nyc" style="max-width: 100%; height: auto;">
         </div>
     </div>
     <div class="stats">
         <div class="card text-white bg-primary mb-3" style="max-width: 18rem;">
-            <div class="card-header">Header</div>
+            <div class="card-header">Temperature</div>
             <div class="card-body">
-                <h5 class="card-title">Primary card title</h5>
+                <h5 class="card-title"><%=temperature%></h5>
                 <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
             </div>
         </div>
         <div class="card text-white bg-secondary mb-3" style="max-width: 18rem;">
-            <div class="card-header">Header</div>
+            <div class="card-header">Air Quality</div>
             <div class="card-body">
-                <h5 class="card-title">Secondary card title</h5>
+                <h5 class="card-title"><%=airQuality%></h5>
                 <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
             </div>
         </div>
         <div class="card text-white bg-success mb-3" style="max-width: 18rem;">
-            <div class="card-header">Header</div>
+            <div class="card-header">Population</div>
             <div class="card-body">
-                <h5 class="card-title">Success card title</h5>
+                <h5 class="card-title"><%=population%></h5>
                 <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
             </div>
         </div>
         <div class="card text-white bg-danger mb-3" style="max-width: 18rem;">
-            <div class="card-header">Header</div>
+            <div class="card-header">Children and Pets</div>
             <div class="card-body">
-                <h5 class="card-title">Danger card title</h5>
+                <h5 class="card-title"><%=childrenAndPets%></h5>
                 <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
             </div>
         </div>
+        <div class="stats">
+            <div class="card text-white bg-primary mb-3" style="max-width: 18rem;">
+                <div class="card-header">Existing Vegation</div>
+                <div class="card-body">
+                    <h5 class="card-title"><%=existingVegation%></h5>
+                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                </div>
+            </div>
+            <div class="card text-white bg-secondary mb-3" style="max-width: 18rem;">
+                <div class="card-header">Precipation</div>
+                <div class="card-body">
+                    <h5 class="card-title"><%=landUse%></h5>
+                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                </div>
+            </div>
+            <div class="card text-white bg-success mb-3" style="max-width: 18rem;">
+                <div class="card-header">Mental Health</div>
+                <div class="card-body">
+                    <h5 class="card-title"><%=mentalHealth%></h5>
+                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                </div>
+            </div>
+            <div class="card text-white bg-danger mb-3" style="max-width: 18rem;">
+                <div class="card-header">Land Use</div>
+                <div class="card-body">
+                    <h5 class="card-title"><%=landUse%></h5>
+                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                </div>
+            </div>
+    
         
     </div>
 
