@@ -4,10 +4,14 @@ import bodyParser from 'body-parser';
 import ejs from 'ejs';
 import OpenAI from 'openai';
 import dotenv from 'dotenv';
+import Anthropic from '@anthropic-ai/sdk';
+import { env } from 'process';
 
 dotenv.config();
 
-const openai = new OpenAI({apiKey: process.env.OPENAI_API_KEY});
+const anthropic = new Anthropic({
+  apiKey: env.ANTHROPIC_API_KEY,
+});
 
 const port = 3000;
 
@@ -21,18 +25,27 @@ app.use(
   express.static("node_modules/bootstrap/dist/")
 );
 
-const runPrompt = async () => {
-  try {
-    const completion = await openai.chat.completions.create({
-      messages: [{ role: "system", content: "You are a helpful assistant." }],
-      model: "gpt-3.5-turbo",
-    });
+const getPrompt = async () => {
+  console.log("running getPrompt...");
+  const msg = await anthropic.messages.create({
+    model: 'claude-3-opus-20240229',
+    max_tokens: 2000,
+    temperature: 0,
+    messages: [
+      {
+        role: 'user',
+        content: [
+          {
+            type: 'text',
+            text: 'You are a city planner in a city of 100,000 people. You are tasked with designing a new park in a neighborhood. Given that the neighborhood\'s temperature is 90 degrees Fahrenheit, the air quality is poor, the population is 10,000, the neighborhood has many children and pets, there is existing vegetation, the precipitation is 10 inches per year, the mental health of the residents is poor, and the land use is residential, what are the most important factors to consider when designing the park?',
+          },
+        ],
+      },
+    ],
+  });
+  console.log(msg);
+}
 
-    console.log(completion.choices[0]);
-  } catch (error) {
-    console.error("Error calling OpenAI API:", error);
-  }
-};
 
 let temperature = 0;
 let airQuality = 0;
@@ -57,7 +70,7 @@ app.get('/', (req, res) => {
 });
 
 app.get('/temperature', (req, res) => {
-  runPrompt();
+  getPrompt();
   res.send('Temperature request processed');
 });
 
