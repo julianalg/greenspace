@@ -1,0 +1,26 @@
+.preview {
+    object-fit: contain;      
+}
+
+.title {
+    text-align: center;
+}
+
+* {
+    box-sizing: border-box;
+}
+body {
+    font-size: 14px;
+}
+
+.stats {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 100%;
+}
+
+.card { 
+    flex: 1 0 25%;
+    margin: 10px;
+}
