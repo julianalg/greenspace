@@ -15,6 +15,10 @@
 
 }
 
+.navbar {
+    background-color: #ACE1AF !important; 
+}
+
 .result {
     text-align: center;
 }

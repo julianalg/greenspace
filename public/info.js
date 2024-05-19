@@ -8,5 +8,11 @@ $(document).ready(function(event) {
     const prompt = await response.text();
     $('.modal-body').text(prompt);
   });
+
+  $('button[data-dismiss="modal"]').on('click', async function() {
+    console.log("dismissing modal")
+    $('.modal-body').text("Loading...");
+  })
+
 });
 
