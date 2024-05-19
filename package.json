@@ -12,6 +12,7 @@
     "@anthropic-ai/sdk": "^0.21.0",
     "anthropic": "^0.0.0",
     "anthropic-ai": "^0.0.10",
+    "axios": "^1.6.8",
     "body-parser": "^1.20.2",
     "bootstrap": "^5.3.3",
     "dotenv": "^16.4.5",
