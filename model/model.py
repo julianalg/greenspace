@@ -113,3 +113,9 @@ def predict(city):
 if __name__ == '__main___':
     app.run(debug=True)
 
+
+@app.route("/cities")
+def cities():
+    df = pd.read_csv('model/data/la.csv')
+    df = df["City"]
+    return df.to_json()
