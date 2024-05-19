@@ -95,10 +95,20 @@ model = joblib.load('model.pkl')
 
 @app.route("/<city>")
 def predict(city):
-    df = pd.DataFrame(city)
+    df = pd.read_csv('model/data/la.csv')
+    df = df.query(f"City == '{city}'")
+    print(df)
+    df = df.drop(["City"], axis=1)
+    df['Land Type'] = df['Land Type'].replace({'Rural': 1, 'Suburban': 2, 'Urban': 3})
     predictions = model.predict(df)
     print(predictions)
-    return "Hello"
+    print(df)
+    df.insert(0, "City", city, True)
+    print(df)
+    print(df.insert(0, "Has Park", predictions, True))
+    print(df)
+
+    return df.to_json()
 
 if __name__ == '__main___':
     app.run(debug=True)
