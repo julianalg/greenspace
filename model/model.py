@@ -8,6 +8,12 @@ from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LinearRegression, LogisticRegression
 from sklearn.metrics import accuracy_score, classification_report, confusion_matrix
 import joblib
+# Python Web Server
+from flask import Flask, request
+import requests
+import jsonify
+
+# Load the dataset
 from sklearn.svm import SVC
 import warnings
 # from flask import Flask, request, jsonify
@@ -42,6 +48,7 @@ class_report = classification_report(y_test, y_pred)
 # print('Classification Report:')
 # print(class_report)
 
+# load LA data
 # FIXING OVERFITTING DATA, MEAN SQUARED ERROR AND MEAN ABSOLUTE ERROR
 def MSE(y,pred):
     return np.mean((y-pred)**2)
@@ -82,3 +89,17 @@ else:
     print(y_pred)
 
 joblib.dump(model, 'model.pkl')
+
+app = Flask(__name__)
+model = joblib.load('model.pkl')
+
+@app.route("/")
+def predict():
+    # data = request.json.get("City")
+    #df = pd.DataFrame(data)
+    #predictions = model.predict(df)
+    return "<p>Hello</p>"
+
+if __name__ == '__main___':
+    app.run(debug=True)
+
