@@ -10,7 +10,7 @@ import { env } from 'process';
 dotenv.config();
 
 const anthropic = new Anthropic({
-  apiKey: env.ANTHROPIC_API_KEY
+  apiKey: process.env.ANTHROPIC_API_KEY
 });
 
 
@@ -25,7 +25,7 @@ app.use(bodyParser.urlencoded({ extended: true }));
 app.use(
   express.static("node_modules/bootstrap/dist/")
 );
-const getPrompt = async () => {
+const getPrompt = async (character, data, town) => {
   console.log("Running getPrompt...");
     const msg = await anthropic.messages.create({
       model: 'claude-3-opus-20240229',
@@ -37,7 +37,7 @@ const getPrompt = async () => {
           content: [
             {
               type: 'text',
-              text: 'You are a city planner in a city of 100,000 people. You are tasked with designing a new park in a neighborhood. Given that the neighborhood\'s temperature is 90 degrees Fahrenheit, the air quality is poor, the population is 10,000, the neighborhood has many children and pets, there is existing vegetation, the precipitation is 10 inches per year, the mental health of the residents is poor, and the land use is residential, what are the most important factors to consider when designing the park?',
+              text: 'You are a city planner for the city of Los Angeles. You have to consider building further greenspace in the town of ' + town + ". Given that this city has a " + character + " of " + data + ", why should greenspace be build in this region?"
             },
           ],
         },
@@ -58,7 +58,7 @@ const getPrompt = async () => {
   });
   
   
-  
+  let town = "Pasadena";
   let temperature = 0;
   let airQuality = 0;
   let population = 0;
@@ -80,10 +80,18 @@ const getPrompt = async () => {
       landUse: landUse
     });
   });
+
+  app.get('/temperature-prompt', async (req, res) => {
+    try {
+      const prompt = await getPrompt("temperature", temperature);
+      res.send(prompt);
+    } catch (error) {
+      res.status(500).send('Error communicating with the API');
+    }
+  });
   
   
   app.listen(port, () => {
     console.log(`Listening on port ${port}`);
   });
-  
   
