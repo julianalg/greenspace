@@ -13,6 +13,5 @@ $(document).ready(function(event) {
     console.log("dismissing modal")
     $('.modal-body').text("Loading...");
   })
-
 });
 
