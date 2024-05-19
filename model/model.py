@@ -117,8 +117,4 @@ if __name__ == '__main___':
 @app.route("/cities")
 def cities():
     df = pd.read_csv('model/data/la.csv')
-    df = df["City"]
-    df = pd.read_csv('model/data/la.csv')
-    df = df["City"]
-    df_values = df.values.tolist()
-    return df_values
+    return df.to_json()

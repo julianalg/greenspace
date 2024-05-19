@@ -8,9 +8,9 @@
                 LA City
             </button>
             <div class="dropdown-menu " aria-labelledby="dropdownMenuButton">
-                <a class="dropdown-item" href="#">Action</a>
-                <a class="dropdown-item" href="#">Another action</a>
-                <a class="dropdown-item" href="#">Something else here</a>
+            <% cities.forEach(city => { %>
+                <a class="dropdown-item" href="#"><%= city %></a>
+            <% }) %>
             </div>
         </div>              
         <img src="image.png" class="map" alt="central park nyc" style="max-width: 100%; height: auto;">

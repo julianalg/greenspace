@@ -75,13 +75,22 @@ let precipitation = 0;
 let landUse = 0;
 
 app.get('/', (req, res) => {
+  Axios.get("http://127.0.0.1:5000/cities").then(response => {
+    console.log(response)
+    const cities = response.data;
+  })
+  .catch(error => {
+    console.error(error);
+  });
+
   res.render('index.ejs', {
     temperature: temperature,
     airQuality: airQuality,
     population: population,
     density: density,
     precipitation: precipitation,
-    landUse: landUse
+    landUse: landUse,
+    cities: cities
   });
 });
 
