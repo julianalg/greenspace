@@ -94,11 +94,11 @@ app = Flask(__name__)
 model = joblib.load('model.pkl')
 
 @app.route("/<city>")
-def predict():
-
-    df = pd.DataFrame(data)
+def predict(city):
+    df = pd.DataFrame(city)
     predictions = model.predict(df)
-    return predictions
+    print(predictions)
+    return "Hello"
 
 if __name__ == '__main___':
     app.run(debug=True)
