@@ -7,8 +7,8 @@ from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import accuracy_score, classification_report, confusion_matrix
 import joblib
 # Python Web Server
-import Flask 
-import request
+from flask import Flask, request
+import requests
 import jsonify
 
 # Load the dataset
@@ -56,11 +56,12 @@ joblib.dump(model, 'model.pkl')
 app = Flask(__name__)
 model = joblib.load('model.pkl')
 
+@app.route("/")
 def predict():
-    data = request.json
-    df = pd.DataFrame(data)
-    predictions = model.predict(df)
-    return jsonify(prediction.tolist())
+    # data = request.json.get("City")
+    #df = pd.DataFrame(data)
+    #predictions = model.predict(df)
+    return "<p>Hello</p>"
 
 if __name__ == '__main___':
     app.run(debug=True)
