@@ -48,15 +48,18 @@ const getPrompt = async (character, data, town) => {
 
 const getPrediction = async (town) => {
   
-  axios.post('http://localhost:5000/predict', data)
+  axios.get('http://127.0.0.1:5000/' + town)
   .then(response => {
-    return response; 
+    console.log(response)
+    // return response; 
   })
   .catch(error => {
     console.error(error);
   });
   
 }
+
+getPrediction("Bellflower")
 
 // Define the endpoint
 app.get('/prompt', async (req, res) => {
