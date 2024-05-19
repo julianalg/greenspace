@@ -93,12 +93,12 @@ joblib.dump(model, 'model.pkl')
 app = Flask(__name__)
 model = joblib.load('model.pkl')
 
-@app.route("/")
+@app.route("/<city>")
 def predict():
-    # data = request.json.get("City")
-    #df = pd.DataFrame(data)
-    #predictions = model.predict(df)
-    return "<p>Hello</p>"
+
+    df = pd.DataFrame(data)
+    predictions = model.predict(df)
+    return predictions
 
 if __name__ == '__main___':
     app.run(debug=True)
