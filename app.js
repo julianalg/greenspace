@@ -1,18 +1,34 @@
 import express from 'express';
-import path from 'path';
 import bodyParser from 'body-parser';
-import ejs from 'ejs';
-import OpenAI from 'openai';
 import dotenv from 'dotenv';
-import Anthropic from '@anthropic-ai/sdk';
+// import Anthropic from '@anthropic-ai/sdk';
 import { env } from 'process';
 import Axios from 'axios'
 
 dotenv.config();
 
-const anthropic = new Anthropic({
-  apiKey: process.env.API_KEY
-});
+const getPrompt = async (character, data) => {
+  try {
+    const response = await Axios.post('https://api.openai.com/v1/chat/completions', {
+      "model": "gpt-3.5-turbo",
+      "messages": [
+        {
+          "role": "system",
+          "content": "You are a city planner for " + city + ". You are tasked with making green spaces. Given that the city has a " + character + " of " + data + " what should be considered about building greenspaces?"
+        },
+      ]
+      }, {
+      headers: {
+        'Content-Type': 'application/json',
+        'Authorization': 'Bearer OPENAIKEY' 
+      }
+    });
+    console.log(response.data.choices[0].message.content);
+    return  response.data.choices[0].message.content;
+  } catch (error) {
+    console.error(error);
+  }
+};
 
 const port = 3000;
 
@@ -25,30 +41,10 @@ app.use(bodyParser.urlencoded({ extended: true }));
 app.use(
   express.static("node_modules/bootstrap/dist/")
 );
-const getPrompt = async (character, data, town) => {
-  console.log("Running getPrompt...");
-  const msg = await anthropic.messages.create({
-    model: 'claude-3-opus-20240229',
-    max_tokens: 2000,
-    temperature: 0,
-    messages: [
-      {
-        role: 'user',
-        content: [
-          {
-            type: 'text',
-            text: 'You are a city planner for the city of Los Angeles. You have to consider building further greenspace in the town of ' + town + ". Given that this city has a " + character + " of " + data + ", why should greenspace be build in this region?"
-          },
-        ],
-      },
-    ],
-  });
-  return msg;
-};  
 
 const getPrediction = async (town) => {
   
-  axios.get('http://127.0.0.1:5000/' + town)
+  Axios.get('http://127.0.0.1:5000/' + town)
   .then(response => {
     console.log(response)
     // return response; 
@@ -58,8 +54,6 @@ const getPrediction = async (town) => {
   });
   
 }
-
-getPrediction("Bellflower")
 
 // Define the endpoint
 app.get('/prompt', async (req, res) => {
@@ -72,11 +66,11 @@ app.get('/prompt', async (req, res) => {
 });
 
 
-let town = "Pasadena";
+let city = "Pasadena";
 let temperature = 0;
 let airQuality = 0;
 let population = 0;
-let density = 0;
+let density = 50;
 let precipitation = 0;
 let landUse = 0;
 
