@@ -1,18 +1,35 @@
-.preview {
-    object-fit: contain;      
+.map {
+    object-fit: contain;    
+    border: 5px solid darkgreen;  
 }
 
 .title {
     text-align: center;
+    font-family: "Noto Serif", serif;
 }
 
+.select {
+    width: 100%;
+    text-align: center;
+    margin: 10px;
+
+}
+.trends {
+    width: 100%;
+    margin: 5px;
+    text-align: center;
+}
 * {
     box-sizing: border-box;
 }
 body {
     font-size: 14px;
+    background-color: #ACE1AF;
 }
-
+.jumbo {
+    background-color: #B0EBB4 !important;
+    margin-top: 10px;
+}
 .stats {
     display: flex;
     flex-wrap: wrap;
@@ -28,3 +45,8 @@ body {
 .modal {
     color: black;
 }
+
+input {
+    width: 150px;
+}
+
