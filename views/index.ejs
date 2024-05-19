@@ -4,15 +4,12 @@
     <div class="p-5 mb-4 bg-body-tertiary rounded-3 jumbo">
         <h1 class="title">Possible Green Space In</h1>
         <div class="select">
-            <button class="btn btn-success dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                LA City
-            </button>
-            <form action="/submit" method="POST">
+            <form action="/predict" method="POST" id="select">
                 <div class="dropdown">
                     <button class="btn btn-success dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                         LA City
                     </button>
-                    <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                            <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
                         <% cities.forEach(function(city) { %>
                             <button class="dropdown-item" type="submit" name="city" value="<%= city %>"><%= city %></button>
                         <% }) %>
@@ -144,7 +141,7 @@
         
     </div>
     
-    <div class="trends">
+    <!-- <div class="trends">
         <h3>By building a green space the size of:
             <div class="dropdown">
                 <button class="btn btn-success dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
@@ -182,7 +179,7 @@
             </div>
           </div>
 
-
+ -->
           
     </div>
 

@@ -10,24 +10,24 @@ dotenv.config();
 const getPrompt = async (character, data) => {
   try {
     const response = await Axios.post('https://api.openai.com/v1/chat/completions', {
-      "model": "gpt-3.5-turbo",
-      "messages": [
-        {
-          "role": "system",
-          "content": "You are a city planner for " + city + ". You are tasked with making green spaces. Given that the city has a " + character + " of " + data + " what should be considered about building greenspaces?"
-        },
-      ]
-      }, {
-      headers: {
-        'Content-Type': 'application/json',
-        'Authorization': 'Bearer OPENAIKEY' 
-      }
-    });
-    console.log(response.data.choices[0].message.content);
-    return  response.data.choices[0].message.content;
-  } catch (error) {
-    console.error(error);
-  }
+    "model": "gpt-3.5-turbo",
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a city planner for " + city + ". You are tasked with making green spaces. Given that the city has a " + character + " of " + data + " what should be considered about building greenspaces?"
+      },
+    ]
+  }, {
+    headers: {
+      'Content-Type': 'application/json',
+      'Authorization': 'Bearer OPENAI KEY' 
+    }
+  });
+  console.log(response.data.choices[0].message.content);
+  return  response.data.choices[0].message.content;
+} catch (error) {
+  console.error(error);
+}
 };
 
 const port = 3000;
@@ -40,57 +40,90 @@ app.use(bodyParser.urlencoded({ extended: true }));
 
 app.use(
   express.static("node_modules/bootstrap/dist/")
-);
-
-const getPrediction = async (town) => {
+  );
   
-  Axios.get('http://127.0.0.1:5000/' + town)
-  .then(response => {
-    console.log(response)
-    // return response; 
+  const getPrediction = async (town) => {
+    
+    return Axios.get('http://127.0.0.1:5000/' + town)
+    .then(response => {
+      console.log(response)
+      return response; 
+    })
+    .catch(error => {
+      console.error(error);
+    });
+    
+  }
+  
+  app.post('/predict', async(req, res) => {
+    const formInfo = req.body.city;
+    console.log(formInfo)
+    const response = (await getPrediction(formInfo)).data
+    console.log("Response: " + response)
+    //city = response.City[1]
+    //population = response.Population[1]
+    //res.send("Hello")
+    data = Object.keys(response).reduce((obj, key) => ({... obj, [key]:response[key][Object.keys(response[key])[0]]}), {});
+
+    city = data["City"]
+    temperature = data["Temperature"],
+    airQuality = data["Air Quality"],
+    population = data["Population"],
+    density = data["Population Density"],
+    precipitation = data["Precipation"],
+    landUse = data["Land Type"],
+    cities = cities
+
+    
+    res.render('index.ejs', {
+      temperature: data["Temperature"],
+      airQuality: data["Air Quality"],
+      population: data["Population"],
+      density: data["Population Density"],
+      precipitation: data["Precipation"],
+      landUse: data["Land Type"],
+      cities: cities
+    })
+    
   })
-  .catch(error => {
-    console.error(error);
+  
+  // Define the endpoint
+  app.get('/prompt', async (req, res) => {
+    try {
+      const prompt = await getPrompt();
+      res.send(prompt);
+    } catch (error) {
+      res.status(500).send('Error communicating with the API');
+    }
   });
   
-}
-
-// Define the endpoint
-app.get('/prompt', async (req, res) => {
-  try {
-    const prompt = await getPrompt();
-    res.send(prompt);
-  } catch (error) {
-    res.status(500).send('Error communicating with the API');
-  }
-});
-
-
-let city = "Pasadena";
-let temperature = 0;
-let airQuality = 0;
-let population = 0;
-let density = 50;
-let precipitation = 0;
-let landUse = 0;
-let cities = [];
-
-app.get('/', (req, res) => {
-  Axios.get("http://127.0.0.1:5000/cities").then(response => {
-      // Extracting just the values from the JSON object and converting it to an array
-      cities = Object.values(response.data);
-      console.log(cities);
-      
-      // Render the page after retrieving and processing the data
-      res.render('index.ejs', {
-        temperature: temperature,
-        airQuality: airQuality,
-        population: population,
-        density: density,
-        precipitation: precipitation,
-        landUse: landUse,
-        cities: cities
-      });
+  let data = {}
+  let city = "Pasadena";
+  let temperature = 0;
+  let airQuality = 0;
+  let population = 0;
+  let density = 50;
+  let precipitation = 0;
+  let landUse = 0;
+  let cities = [];
+  let hasPark = 0;
+  
+  app.get('/', (req, res) => {
+    Axios.get("http://127.0.0.1:5000/cities").then(response => {
+    // Extracting just the values from the JSON object and converting it to an array
+    cities = Object.values(response.data);
+    console.log(cities);
+    
+    // Render the page after retrieving and processing the data
+    res.render('index.ejs', {
+      temperature: temperature,
+      airQuality: airQuality,
+      population: population,
+      density: density,
+      precipitation: precipitation,
+      landUse: landUse,
+      cities: cities
+    });
   })
   .catch(error => {
     console.error(error);
