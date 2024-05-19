@@ -73,24 +73,37 @@ let population = 0;
 let density = 50;
 let precipitation = 0;
 let landUse = 0;
+let cities = [];
 
 app.get('/', (req, res) => {
   Axios.get("http://127.0.0.1:5000/cities").then(response => {
-    console.log(response)
-    const cities = response.data;
+      // Extracting just the values from the JSON object and converting it to an array
+      cities = Object.values(response.data);
+      console.log(cities);
+      
+      // Render the page after retrieving and processing the data
+      res.render('index.ejs', {
+        temperature: temperature,
+        airQuality: airQuality,
+        population: population,
+        density: density,
+        precipitation: precipitation,
+        landUse: landUse,
+        cities: cities
+      });
   })
   .catch(error => {
     console.error(error);
-  });
-
-  res.render('index.ejs', {
-    temperature: temperature,
-    airQuality: airQuality,
-    population: population,
-    density: density,
-    precipitation: precipitation,
-    landUse: landUse,
-    cities: cities
+    // If there's an error, render the page with empty cities array
+    res.render('index.ejs', {
+      temperature: temperature,
+      airQuality: airQuality,
+      population: population,
+      density: density,
+      precipitation: precipitation,
+      landUse: landUse,
+      cities: cities
+    });
   });
 });
 

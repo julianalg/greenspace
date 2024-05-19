@@ -8,8 +8,8 @@
                 LA City
             </button>
             <div class="dropdown-menu " aria-labelledby="dropdownMenuButton">
-            <% cities.forEach(city => { %>
-                <a class="dropdown-item" href="#"><%= city %></a>
+            <% cities.forEach(function(city) { %>
+                <p class="dropdown-item" href="#"><%= city %></p>
             <% }) %>
             </div>
         </div>              
