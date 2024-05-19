@@ -6,13 +6,13 @@ import OpenAI from 'openai';
 import dotenv from 'dotenv';
 import Anthropic from '@anthropic-ai/sdk';
 import { env } from 'process';
+import Axios from 'axios'
 
 dotenv.config();
 
 const anthropic = new Anthropic({
-  apiKey: process.env.ANTHROPIC_API_KEY
+  apiKey: process.env.API_KEY
 });
-
 
 const port = 3000;
 
@@ -27,67 +27,105 @@ app.use(
 );
 const getPrompt = async (character, data, town) => {
   console.log("Running getPrompt...");
-    const msg = await anthropic.messages.create({
-      model: 'claude-3-opus-20240229',
-      max_tokens: 2000,
-      temperature: 0,
-      messages: [
-        {
-          role: 'user',
-          content: [
-            {
-              type: 'text',
-              text: 'You are a city planner for the city of Los Angeles. You have to consider building further greenspace in the town of ' + town + ". Given that this city has a " + character + " of " + data + ", why should greenspace be build in this region?"
-            },
-          ],
-        },
-      ],
-    });
-    console.log('API response:', msg);
-    return msg.content[0].content[0].text;
-  };  
-  
-  // Define the endpoint
-  app.get('/prompt', async (req, res) => {
-    try {
-      const prompt = await getPrompt();
-      res.send(prompt);
-    } catch (error) {
-      res.status(500).send('Error communicating with the API');
-    }
+  const msg = await anthropic.messages.create({
+    model: 'claude-3-opus-20240229',
+    max_tokens: 2000,
+    temperature: 0,
+    messages: [
+      {
+        role: 'user',
+        content: [
+          {
+            type: 'text',
+            text: 'You are a city planner for the city of Los Angeles. You have to consider building further greenspace in the town of ' + town + ". Given that this city has a " + character + " of " + data + ", why should greenspace be build in this region?"
+          },
+        ],
+      },
+    ],
   });
-  
-  
-  let town = "Pasadena";
-  let temperature = 0;
-  let airQuality = 0;
-  let population = 0;
-  let density = 0;
-  let precipitation = 0;
-  let landUse = 0;
-  
-  app.get('/', (req, res) => {
-    res.render('index.ejs', {
-      temperature: temperature,
-      airQuality: airQuality,
-      population: population,
-      density: density,
-      precipitation: precipitation,
-      landUse: landUse
-    });
-  });
+  return msg;
+};  
 
-  app.get('/temperature-prompt', async (req, res) => {
-    try {
-      const prompt = await getPrompt("temperature", temperature);
-      res.send(prompt);
-    } catch (error) {
-      res.status(500).send('Error communicating with the API');
-    }
+const getPrediction = async (town) => {
+  
+  axios.post('http://localhost:5000/predict', data)
+  .then(response => {
+    return response; 
+  })
+  .catch(error => {
+    console.error(error);
   });
   
-  
-  app.listen(port, () => {
-    console.log(`Listening on port ${port}`);
+}
+
+// Define the endpoint
+app.get('/prompt', async (req, res) => {
+  try {
+    const prompt = await getPrompt();
+    res.send(prompt);
+  } catch (error) {
+    res.status(500).send('Error communicating with the API');
+  }
+});
+
+
+let town = "Pasadena";
+let temperature = 0;
+let airQuality = 0;
+let population = 0;
+let density = 0;
+let precipitation = 0;
+let landUse = 0;
+
+app.get('/', (req, res) => {
+  res.render('index.ejs', {
+    temperature: temperature,
+    airQuality: airQuality,
+    population: population,
+    density: density,
+    precipitation: precipitation,
+    landUse: landUse
   });
-  
+});
+
+app.get('/prompttemperature', async (req, res) => {
+  try {
+    const prompt = await getPrompt("temperature", temperature);
+    res.send(prompt);
+  } catch (error) {
+    res.status(500).send('Error communicating with the API');
+  }
+});
+app.get('/promptairquality', async (req, res) => {
+  try {
+    const prompt = await getPrompt("air quality", airQuality);
+    res.send(prompt);
+  } catch (error) {
+    res.status(500).send('Error communicating with the API');
+  }
+});
+app.get('/promptpopulation', async (req, res) => {
+  try {
+    const prompt = await getPrompt("population", population);
+    res.send(prompt);
+  } catch (error) {
+    res.status(500).send('Error communicating with the API');
+  }
+});
+app.get('/promptdensity', async (req, res) => {
+  try {
+    const prompt = await getPrompt("density", density);
+    res.send(prompt);
+  } catch (error) {
+    res.send(error)
+  }
+});
+
+
+
+
+app.listen(port, () => {
+  console.log(`Listening on port ${port}`);
+});
+
+
