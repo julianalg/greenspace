@@ -118,4 +118,7 @@ if __name__ == '__main___':
 def cities():
     df = pd.read_csv('model/data/la.csv')
     df = df["City"]
-    return df.to_json()
+    df = pd.read_csv('model/data/la.csv')
+    df = df["City"]
+    df_values = df.values.tolist()
+    return df_values
