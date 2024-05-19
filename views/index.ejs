@@ -12,204 +12,204 @@
                             <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
                         <% cities.forEach(function(city) { %>
                             <button class="dropdown-item" type="submit" name="city" value="<%= city %>"><%= city %></button>
-                        <% }) %>
+                            <% }) %>
+                        </div>
                     </div>
-                </div>
-            </form>
-        <img src="image.png" class="map" alt="central park nyc" style="max-width: 100%; height: auto;">
-    </div>
-</div>
-<div class="stats">
-    <div class="card text-white bg-primary mb-3" style="max-width: 18rem;">
-        <div class="card-header" data-toggle="modal" data-target="#exampleModal">Temperature</div>
-        <div class="card-body">
-            <h5 class="card-title"><%=temperature%></h5>
-            <p class="card-text">Temperature is important for determining green space because green spaces help regulate urban temperatures by providing shade, cooling through evapotranspiration, and reducing the urban heat island effect.</p>
-        </div>
-        <!-- Button trigger modal -->
-        <button type="button" id="temperature" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal">
-            Learn More
-        </button>
-        
-        <!-- Modal -->
-        <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-            <div class="modal-dialog" role="document">
-                <div class="modal-content">
-                    <div class="modal-header">
-                        <h5 class="modal-title" id="exampleModalLabel">Temperature</h5>
-                    </div>
-                    <div class="modal-body">
-                        Loading...
-                    </div>
-                    <div class="modal-footer">
-                        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-                        <button type="button" class="btn btn-primary">Save changes</button>
-                    </div>
-                </div>
+                </form>
+                <div id="map" style="height: 500px; width: 100%;"></div>
             </div>
         </div>
-    </div>
-    
-    <div class="card text-white bg-secondary mb-3" style="max-width: 18rem;">
-        <div class="card-header">Air Quality</div>
-        <div class="card-body">
-            <h5 class="card-title"><%=airQuality%></h5>
-            <p class="card-text">Air quality is important for determining green space because green spaces can significantly improve air quality by filtering pollutants, providing oxygen, and mitigating the urban heat island effect.</p>
-        </div>
-        <!-- Button trigger modal -->
-        <button type="button" id="airquality" class="btn btn-secondary" data-toggle="modal" data-target="#exampleModal">
-            Learn More
-        </button>
-        
-        <!-- Modal -->
-        <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-            <div class="modal-dialog" role="document">
-                <div class="modal-content">
-                    <div class="modal-header">
-                        <h5 class="modal-title" id="exampleModalLabel">Air Quality</h5>
-                    </div>
-                    <div class="modal-body">
-                        Loading...
-                    </div>
-                    <div class="modal-footer">
-                        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-                        <button type="button" class="btn btn-primary">Save changes</button>
-                    </div>
+        <div class="stats">
+            <div class="card text-white bg-primary mb-3" style="max-width: 18rem;">
+                <div class="card-header" data-toggle="modal" data-target="#exampleModal">Temperature</div>
+                <div class="card-body">
+                    <h5 class="card-title"><%=temperature%></h5>
+                    <p class="card-text">Temperature is important for determining green space because green spaces help regulate urban temperatures by providing shade, cooling through evapotranspiration, and reducing the urban heat island effect.</p>
                 </div>
-            </div>
-        </div>
-        
-    </div>
-    <div class="card text-white bg-success mb-3" style="max-width: 18rem;">
-        <div class="card-header">Population</div>
-        <div class="card-body">
-            <h5 class="card-title"><%=population%></h5>
-            <p class="card-text">Population is important for determining green space because higher population densities require more green spaces to provide recreational areas, improve mental health, and enhance overall quality of life for residents.</p>
-        </div>
-        <!-- Button trigger modal -->
-        <button type="button" id="population" class="btn btn-success" data-toggle="modal" data-target="#exampleModal">
-            Learn More
-        </button>
-        
-        <!-- Modal -->
-        <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-            <div class="modal-dialog" role="document">
-                <div class="modal-content">
-                    <div class="modal-header">
-                        <h5 class="modal-title" id="exampleModalLabel">Population</h5>
-                    </div>
-                    <div class="modal-body">
-                        Loading...
-                    </div>
-                    <div class="modal-footer">
-                        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-                        <button type="button" class="btn btn-primary">Save changes</button>
-                    </div>
-                </div>
-            </div>
-        </div>
-        
-    </div>
-    <div class="card text-white bg-danger mb-3" style="max-width: 18rem;">
-        <div class="card-header">Density</div>
-        <div class="card-body">
-            <h5 class="card-title"><%=density%></h5>
-            <p class="card-text">Children and pets are important for determining green space because they need safe, accessible outdoor areas for physical activity, social interaction, and overall well-being.</p>
-        </div>
-        <!-- Button trigger modal -->
-        <button type="button" id="density" class="btn btn-danger" data-toggle="modal" data-target="#exampleModal">
-            Learn More
-        </button>
-        
-        <!-- Modal -->
-        <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-            <div class="modal-dialog" role="document">
-                <div class="modal-content">
-                    <div class="modal-header">
-                        <h5 class="modal-title" id="exampleModalLabel">Children and Pets</h5>
-                    </div>
-                    <div class="modal-body">
-                        Loading...
-                    </div>
-                    <div class="modal-footer">
-                        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-                        <button type="button" class="btn btn-primary">Save changes</button>
-                    </div>
-                </div>
-            </div>
-        </div>
-        
-    </div>
-    
-    <!-- <div class="trends">
-        <h3>By building a green space the size of:
-            <div class="dropdown">
-                <button class="btn btn-success dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                    San Diego Parks
+                <!-- Button trigger modal -->
+                <button type="button" id="temperature" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal">
+                    Learn More
                 </button>
-                <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-                    <a class="dropdown-item" href="#">Action</a>
-                    <a class="dropdown-item" href="#">Another action</a>
-                    <a class="dropdown-item" href="#">Something else here</a>
+                
+                <!-- Modal -->
+                <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                    <div class="modal-dialog" role="document">
+                        <div class="modal-content">
+                            <div class="modal-header">
+                                <h5 class="modal-title" id="exampleModalLabel">Temperature</h5>
+                            </div>
+                            <div class="modal-body">
+                                Loading...
+                            </div>
+                            <div class="modal-footer">
+                                <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                                <button type="button" class="btn btn-primary">Save changes</button>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
-        </h4> 
-        
-
-    <div class="stats">
-        <div class="card text-bg-warning mb-3" style="max-width: 18rem;">
-            <div class="card-header">Pollution</div>
-            <div class="card-body">
-              <h5 class="card-title">-0%</h5>
-              <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+            
+            <div class="card text-white bg-secondary mb-3" style="max-width: 18rem;">
+                <div class="card-header">Air Quality</div>
+                <div class="card-body">
+                    <h5 class="card-title"><%=airQuality%></h5>
+                    <p class="card-text">Air quality is important for determining green space because green spaces can significantly improve air quality by filtering pollutants, providing oxygen, and mitigating the urban heat island effect.</p>
+                </div>
+                <!-- Button trigger modal -->
+                <button type="button" id="airquality" class="btn btn-secondary" data-toggle="modal" data-target="#exampleModal">
+                    Learn More
+                </button>
+                
+                <!-- Modal -->
+                <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                    <div class="modal-dialog" role="document">
+                        <div class="modal-content">
+                            <div class="modal-header">
+                                <h5 class="modal-title" id="exampleModalLabel">Air Quality</h5>
+                            </div>
+                            <div class="modal-body">
+                                Loading...
+                            </div>
+                            <div class="modal-footer">
+                                <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                                <button type="button" class="btn btn-primary">Save changes</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
             </div>
-          </div>
-          <div class="card text-bg-light mb-3" style="max-width: 18rem;">
-            <div class="card-header">Emissions</div>
-            <div class="card-body">
-              <h5 class="card-title">-0%</h5>
-              <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+            <div class="card text-white bg-success mb-3" style="max-width: 18rem;">
+                <div class="card-header">Population</div>
+                <div class="card-body">
+                    <h5 class="card-title"><%=population%></h5>
+                    <p class="card-text">Population is important for determining green space because higher population densities require more green spaces to provide recreational areas, improve mental health, and enhance overall quality of life for residents.</p>
+                </div>
+                <!-- Button trigger modal -->
+                <button type="button" id="population" class="btn btn-success" data-toggle="modal" data-target="#exampleModal">
+                    Learn More
+                </button>
+                
+                <!-- Modal -->
+                <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                    <div class="modal-dialog" role="document">
+                        <div class="modal-content">
+                            <div class="modal-header">
+                                <h5 class="modal-title" id="exampleModalLabel">Population</h5>
+                            </div>
+                            <div class="modal-body">
+                                Loading...
+                            </div>
+                            <div class="modal-footer">
+                                <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                                <button type="button" class="btn btn-primary">Save changes</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
             </div>
-          </div>
-          <div class="card text-bg-success mb-3" style="max-width: 18rem;">
-            <div class="card-header">Green-space</div>
-            <div class="card-body">
-              <h5 class="card-title">-0%</h5>
-              <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+            <div class="card text-white bg-danger mb-3" style="max-width: 18rem;">
+                <div class="card-header">Density</div>
+                <div class="card-body">
+                    <h5 class="card-title"><%=density%></h5>
+                    <p class="card-text">Children and pets are important for determining green space because they need safe, accessible outdoor areas for physical activity, social interaction, and overall well-being.</p>
+                </div>
+                <!-- Button trigger modal -->
+                <button type="button" id="density" class="btn btn-danger" data-toggle="modal" data-target="#exampleModal">
+                    Learn More
+                </button>
+                
+                <!-- Modal -->
+                <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                    <div class="modal-dialog" role="document">
+                        <div class="modal-content">
+                            <div class="modal-header">
+                                <h5 class="modal-title" id="exampleModalLabel">Children and Pets</h5>
+                            </div>
+                            <div class="modal-body">
+                                Loading...
+                            </div>
+                            <div class="modal-footer">
+                                <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                                <button type="button" class="btn btn-primary">Save changes</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
             </div>
-          </div>
-
- -->
-          
-    </div>
-
-
-        
-    </div>
-    
-    <div class="container col-xxl-8 px-4 py-5">
-        <div class="row flex-lg-row-reverse align-items-center g-5 py-5">
-            <div class="col-10 col-sm-8 col-lg-6">
-                <img src="greenspace.jpg" class="d-block mx-lg-auto img-fluid" alt="Bootstrap Themes" width="700" height="500" loading="lazy">
+            
+            <!-- <div class="trends">
+                <h3>By building a green space the size of:
+                    <div class="dropdown">
+                        <button class="btn btn-success dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            San Diego Parks
+                        </button>
+                        <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                            <a class="dropdown-item" href="#">Action</a>
+                            <a class="dropdown-item" href="#">Another action</a>
+                            <a class="dropdown-item" href="#">Something else here</a>
+                        </div>
+                    </div>
+                </h4> 
+                
+                
+                <div class="stats">
+                    <div class="card text-bg-warning mb-3" style="max-width: 18rem;">
+                        <div class="card-header">Pollution</div>
+                        <div class="card-body">
+                            <h5 class="card-title">-0%</h5>
+                            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                        </div>
+                    </div>
+                    <div class="card text-bg-light mb-3" style="max-width: 18rem;">
+                        <div class="card-header">Emissions</div>
+                        <div class="card-body">
+                            <h5 class="card-title">-0%</h5>
+                            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                        </div>
+                    </div>
+                    <div class="card text-bg-success mb-3" style="max-width: 18rem;">
+                        <div class="card-header">Green-space</div>
+                        <div class="card-body">
+                            <h5 class="card-title">-0%</h5>
+                            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                        </div>
+                    </div>
+                    
+                     -->
+                    
+                </div>
+                
+                
+                
             </div>
-            <div class="col-lg-6">
-                <h1 class="display-5 fw-bold text-body-emphasis lh-1 mb-3">Helping build healthier cities</h1>
-                <p class="lead">Green spaces play a crucial role in creating healthier and more sustainable cities. They provide numerous benefits to both the environment and the well-being of individuals. By incorporating green spaces into urban planning and design, cities can create more sustainable and livable environments for their residents.</p>
+            
+            <div class="container col-xxl-8 px-4 py-5">
+                <div class="row flex-lg-row-reverse align-items-center g-5 py-5">
+                    <div class="col-10 col-sm-8 col-lg-6">
+                        <img src="greenspace.jpg" class="d-block mx-lg-auto img-fluid" alt="Bootstrap Themes" width="700" height="500" loading="lazy">
+                    </div>
+                    <div class="col-lg-6">
+                        <h1 class="display-5 fw-bold text-body-emphasis lh-1 mb-3">Helping build healthier cities</h1>
+                        <p class="lead">Green spaces play a crucial role in creating healthier and more sustainable cities. They provide numerous benefits to both the environment and the well-being of individuals. By incorporating green spaces into urban planning and design, cities can create more sustainable and livable environments for their residents.</p>
+                    </div>
+                </div>
             </div>
+            
+            
+            <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+            <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+            <script src="https://cdn.jsdelivr.net/npm/popper.js@1.12.9/dist/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+            <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+            
+            <script src="info.js"></script>
         </div>
     </div>
     
     
-    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
-    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
-    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.12.9/dist/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
-    
-    <script src="info.js"></script>
-</div>
-</div>
-
-
-<%- include ("partials/footer.ejs") %>
+    <%- include ("partials/footer.ejs") %>
 </div>
 <div class="preview">
