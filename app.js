@@ -20,7 +20,7 @@ const getPrompt = async (character, data) => {
   }, {
     headers: {
       'Content-Type': 'application/json',
-      'Authorization': 'Bearer ' 
+      'Authorization': 'Bearer sk-proj-i8wOPe2wCcRXzwafuKDrT3BlbkFJLyg58wVN0fUTmjpBHAIq' 
     }
   });
   console.log(response.data.choices[0].message.content);
