@@ -14,6 +14,10 @@
     margin: 10px;
 
 }
+
+.result {
+    text-align: center;
+}
 .trends {
     width: 100%;
     margin: 5px;
@@ -50,3 +54,7 @@ input {
     width: 150px;
 }
 
+
+.btn-success {
+    margin: 5px;
+}

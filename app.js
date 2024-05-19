@@ -74,8 +74,11 @@ app.use(
     landUse = data["Land Type"]
     cities = cities
     zipCode = data["Zip Code"]
-    
+    hasPark = data["Has Park"]
+
     res.render('index.ejs', {
+      hasPark: data["Has Park"],
+      city: city,
       temperature: data["Temperature"],
       airQuality: data["Air Quality"],
       population: data["Population"],
@@ -118,6 +121,8 @@ app.use(
     
     // Render the page after retrieving and processing the data
     res.render('index.ejs', {
+      hasPark: false,
+      city: city,
       temperature: temperature,
       airQuality: airQuality,
       population: population,
