@@ -1,0 +1,690 @@
+Zip,population,density,City,St,State,CitySt,County,Country,Coordinates,lat,long
+91901,18558,75.2,Alpine,California,CA,"Alpine,CA",San Diego,US,"32.8282, -116.7543",32.8282,-116.7543
+91902,20138,781.2,Bonita,California,CA,"Bonita,CA",San Diego,US,"32.6671, -117.0221",32.6671,-117.0221
+91903,20138,781.2,Alpine,California,CA,"Alpine,CA",San Diego,US,"32.8351, -116.7664",32.8351,-116.7664
+91905,1478,10.0,Boulevard,California,CA,"Boulevard,CA",San Diego,US,"32.6719, -116.32",32.6719,-116.32
+91906,4351,13.3,Campo,California,CA,"Campo,CA",San Diego,US,"32.6605, -116.4905",32.6605,-116.4905
+91908,4351,13.3,Bonita,California,CA,"Bonita,CA",San Diego,US,"32.6578, -117.03",32.6578,-117.03
+91909,4351,13.3,Chula Vista,California,CA,"Chula Vista,CA",San Diego,US,"32.6401, -117.0842",32.6401,-117.0842
+91910,74297,2392.3,Chula Vista,California,CA,"Chula Vista,CA",San Diego,US,"32.6371, -117.0676",32.6371,-117.0676
+91911,85365,2736.2,Chula Vista,California,CA,"Chula Vista,CA",San Diego,US,"32.6084, -117.0565",32.6084,-117.0565
+91912,85365,2736.2,Chula Vista,California,CA,"Chula Vista,CA",San Diego,US,"32.6401, -117.0842",32.6401,-117.0842
+91913,53072,1551.9,Chula Vista,California,CA,"Chula Vista,CA",San Diego,US,"32.6513, -116.9852",32.6513,-116.9852
+91914,16357,947.7,Chula Vista,California,CA,"Chula Vista,CA",San Diego,US,"32.6587, -116.9652",32.6587,-116.9652
+91915,31740,1251.1,Chula Vista,California,CA,"Chula Vista,CA",San Diego,US,"32.6315, -116.9408",32.6315,-116.9408
+91916,1962,15.7,Descanso,California,CA,"Descanso,CA",San Diego,US,"32.873, -116.6027",32.873,-116.6027
+91917,920,10.5,Dulzura,California,CA,"Dulzura,CA",San Diego,US,"32.6152, -116.7285",32.6152,-116.7285
+91921,920,10.5,Chula Vista,California,CA,"Chula Vista,CA",San Diego,US,"32.6401, -117.0842",32.6401,-117.0842
+91931,496,15.8,Guatay,California,CA,"Guatay,CA",San Diego,US,"32.8497, -116.5583",32.8497,-116.5583
+91932,26701,3753.6,Imperial Beach,California,CA,"Imperial Beach,CA",San Diego,US,"32.5783, -117.1148",32.5783,-117.1148
+91933,26701,3753.6,Imperial Beach,California,CA,"Imperial Beach,CA",San Diego,US,"32.5839, -117.1131",32.5839,-117.1131
+91934,267,6.1,Jacumba,California,CA,"Jacumba,CA",San Diego,US,"32.6249, -116.1952",32.6249,-116.1952
+91935,8332,34.5,Jamul,California,CA,"Jamul,CA",San Diego,US,"32.7163, -116.8323",32.7163,-116.8323
+91941,32384,1522.0,La Mesa,California,CA,"La Mesa,CA",San Diego,US,"32.7604, -117.0115",32.7604,-117.0115
+91942,40205,2506.3,La Mesa,California,CA,"La Mesa,CA",San Diego,US,"32.7835, -117.0189",32.7835,-117.0189
+91943,40205,2506.3,La Mesa,California,CA,"La Mesa,CA",San Diego,US,"32.7678, -117.0231",32.7678,-117.0231
+91944,40205,2506.3,La Mesa,California,CA,"La Mesa,CA",San Diego,US,"32.7678, -117.0231",32.7678,-117.0231
+91945,27193,2505.2,Lemon Grove,California,CA,"Lemon Grove,CA",San Diego,US,"32.7332, -117.0326",32.7332,-117.0326
+91946,27193,2505.2,Lemon Grove,California,CA,"Lemon Grove,CA",San Diego,US,"32.7426, -117.0314",32.7426,-117.0314
+91948,15,1.5,Mount Laguna,California,CA,"Mount Laguna,CA",San Diego,US,"32.8676, -116.4206",32.8676,-116.4206
+91950,62639,3059.5,National City,California,CA,"National City,CA",San Diego,US,"32.6749, -117.0897",32.6749,-117.0897
+91951,62639,3059.5,National City,California,CA,"National City,CA",San Diego,US,"32.6781, -117.0992",32.6781,-117.0992
+91962,2378,12.3,Pine Valley,California,CA,"Pine Valley,CA",San Diego,US,"32.835, -116.5127",32.835,-116.5127
+91963,999,12.8,Potrero,California,CA,"Potrero,CA",San Diego,US,"32.6205, -116.6037",32.6205,-116.6037
+91976,999,12.8,Spring Valley,California,CA,"Spring Valley,CA",San Diego,US,"32.7448, -116.9989",32.7448,-116.9989
+91977,63393,2332.5,Spring Valley,California,CA,"Spring Valley,CA",San Diego,US,"32.724, -116.9976",32.724,-116.9976
+91978,10518,509.9,Spring Valley,California,CA,"Spring Valley,CA",San Diego,US,"32.7329, -116.9596",32.7329,-116.9596
+91979,10518,509.9,Spring Valley,California,CA,"Spring Valley,CA",San Diego,US,"32.7448, -116.9989",32.7448,-116.9989
+91980,636,17.8,Tecate,California,CA,"Tecate,CA",San Diego,US,"32.5889, -116.6192",32.5889,-116.6192
+91987,636,17.8,Tecate,California,CA,"Tecate,CA",San Diego,US,"32.5773, -116.6275",32.5773,-116.6275
+92003,5042,105.6,Bonsall,California,CA,"Bonsall,CA",San Diego,US,"33.294, -117.1897",33.294,-117.1897
+92004,2414,2.2,Borrego Springs,California,CA,"Borrego Springs,CA",San Diego,US,"33.2386, -116.3514",33.2386,-116.3514
+92007,11234,1647.5,Cardiff By The Sea,California,CA,"Cardiff By The Sea,CA",San Diego,US,"33.023, -117.2745",33.023,-117.2745
+92008,27330,1035.8,Carlsbad,California,CA,"Carlsbad,CA",San Diego,US,"33.1602, -117.325",33.1602,-117.325
+92009,45827,1236.1,Carlsbad,California,CA,"Carlsbad,CA",San Diego,US,"33.0954, -117.2619",33.0954,-117.2619
+92010,16131,682.6,Carlsbad,California,CA,"Carlsbad,CA",San Diego,US,"33.1639, -117.3009",33.1639,-117.3009
+92011,24382,1272.1,Carlsbad,California,CA,"Carlsbad,CA",San Diego,US,"33.1072, -117.2943",33.1072,-117.2943
+92013,24382,1272.1,Carlsbad,California,CA,"Carlsbad,CA",San Diego,US,"33.1581, -117.3506",33.1581,-117.3506
+92014,13863,842.3,Del Mar,California,CA,"Del Mar,CA",San Diego,US,"32.9665, -117.249",32.9665,-117.249
+92018,13863,842.3,Carlsbad,California,CA,"Carlsbad,CA",San Diego,US,"33.1581, -117.3506",33.1581,-117.3506
+92019,42400,593.1,El Cajon,California,CA,"El Cajon,CA",San Diego,US,"32.7777, -116.9191",32.7777,-116.9191
+92020,58742,2002.4,El Cajon,California,CA,"El Cajon,CA",San Diego,US,"32.7928, -116.9665",32.7928,-116.9665
+92021,71321,845.1,El Cajon,California,CA,"El Cajon,CA",San Diego,US,"32.8178, -116.9223",32.8178,-116.9223
+92022,71321,845.1,El Cajon,California,CA,"El Cajon,CA",San Diego,US,"32.7948, -116.9625",32.7948,-116.9625
+92023,71321,845.1,Encinitas,California,CA,"Encinitas,CA",San Diego,US,"33.036, -117.292",33.036,-117.292
+92024,51496,1123.9,Encinitas,California,CA,"Encinitas,CA",San Diego,US,"33.0535, -117.2689",33.0535,-117.2689
+92025,53772,875.4,Escondido,California,CA,"Escondido,CA",San Diego,US,"33.1101, -117.07",33.1101,-117.07
+92026,49921,507.5,Escondido,California,CA,"Escondido,CA",San Diego,US,"33.1605, -117.0978",33.1605,-117.0978
+92027,56811,329.8,Escondido,California,CA,"Escondido,CA",San Diego,US,"33.1388, -117.052",33.1388,-117.052
+92028,49380,189.2,Fallbrook,California,CA,"Fallbrook,CA",San Diego,US,"33.369, -117.229",33.369,-117.229
+92029,19149,310.7,Escondido,California,CA,"Escondido,CA",San Diego,US,"33.0895, -117.1128",33.0895,-117.1128
+92030,19149,310.7,Escondido,California,CA,"Escondido,CA",San Diego,US,"33.1192, -117.0864",33.1192,-117.0864
+92033,19149,310.7,Escondido,California,CA,"Escondido,CA",San Diego,US,"33.1192, -117.0864",33.1192,-117.0864
+92036,2221,7.4,Julian,California,CA,"Julian,CA",San Diego,US,"33.0534, -116.5658",33.0534,-116.5658
+92037,39724,1382.3,La Jolla,California,CA,"La Jolla,CA",San Diego,US,"32.8455, -117.2521",32.8455,-117.2521
+92038,39724,1382.3,La Jolla,California,CA,"La Jolla,CA",San Diego,US,"32.8473, -117.2742",32.8473,-117.2742
+92039,39724,1382.3,La Jolla,California,CA,"La Jolla,CA",San Diego,US,"32.8473, -117.2742",32.8473,-117.2742
+92040,46261,248.2,Lakeside,California,CA,"Lakeside,CA",San Diego,US,"32.8562, -116.9201",32.8562,-116.9201
+92046,46261,248.2,Escondido,California,CA,"Escondido,CA",San Diego,US,"33.1192, -117.0864",33.1192,-117.0864
+92049,46261,248.2,Oceanside,California,CA,"Oceanside,CA",San Diego,US,"33.1959, -117.3795",33.1959,-117.3795
+92051,46261,248.2,Oceanside,California,CA,"Oceanside,CA",San Diego,US,"33.1959, -117.3795",33.1959,-117.3795
+92052,46261,248.2,Oceanside,California,CA,"Oceanside,CA",San Diego,US,"33.1959, -117.3795",33.1959,-117.3795
+92054,42173,1303.2,Oceanside,California,CA,"Oceanside,CA",San Diego,US,"33.2072, -117.3573",33.2072,-117.3573
+92055,12120,61.4,Camp Pendleton,California,CA,"Camp Pendleton,CA",San Diego,US,"33.2433, -117.3768",33.2433,-117.3768
+92056,53845,1608.5,Oceanside,California,CA,"Oceanside,CA",San Diego,US,"33.1968, -117.2831",33.1968,-117.2831
+92057,58347,1383.6,Oceanside,California,CA,"Oceanside,CA",San Diego,US,"33.2407, -117.3025",33.2407,-117.3025
+92058,45894,583.6,Oceanside,California,CA,"Oceanside,CA",San Diego,US,"33.1959, -117.3795",33.1959,-117.3795
+92059,1456,22.4,Pala,California,CA,"Pala,CA",San Diego,US,"33.3777, -117.0717",33.3777,-117.0717
+92060,92,1.2,Palomar Mountain,California,CA,"Palomar Mountain,CA",San Diego,US,"33.3228, -116.8786",33.3228,-116.8786
+92061,2376,24.3,Pauma Valley,California,CA,"Pauma Valley,CA",San Diego,US,"33.3063, -116.9596",33.3063,-116.9596
+92064,49933,451.6,Poway,California,CA,"Poway,CA",San Diego,US,"32.9756, -117.0402",32.9756,-117.0402
+92065,36309,82.8,Ramona,California,CA,"Ramona,CA",San Diego,US,"33.0293, -116.8535",33.0293,-116.8535
+92066,572,7.4,Ranchita,California,CA,"Ranchita,CA",San Diego,US,"33.21, -116.5167",33.21,-116.5167
+92067,8756,163.4,Rancho Santa Fe,California,CA,"Rancho Santa Fe,CA",San Diego,US,"33.005, -117.2157",33.005,-117.2157
+92068,8756,163.4,San Luis Rey,California,CA,"San Luis Rey,CA",San Diego,US,"33.232, -117.3236",33.232,-117.3236
+92069,51447,1088.2,San Marcos,California,CA,"San Marcos,CA",San Diego,US,"33.1444, -117.1697",33.1444,-117.1697
+92070,829,3.6,Santa Ysabel,California,CA,"Santa Ysabel,CA",San Diego,US,"33.1476, -116.6963",33.1476,-116.6963
+92071,57511,1175.2,Santee,California,CA,"Santee,CA",San Diego,US,"32.8486, -116.9862",32.8486,-116.9862
+92072,57511,1175.2,Santee,California,CA,"Santee,CA",San Diego,US,"32.8384, -116.9739",32.8384,-116.9739
+92074,57511,1175.2,Poway,California,CA,"Poway,CA",San Diego,US,"32.9628, -117.0359",32.9628,-117.0359
+92075,12624,1314.3,Solana Beach,California,CA,"Solana Beach,CA",San Diego,US,"32.9937, -117.2598",32.9937,-117.2598
+92078,49034,993.3,San Marcos,California,CA,"San Marcos,CA",San Diego,US,"33.1193, -117.185",33.1193,-117.185
+92079,49034,993.3,San Marcos,California,CA,"San Marcos,CA",San Diego,US,"33.1434, -117.1661",33.1434,-117.1661
+92081,29405,1191.8,Vista,California,CA,"Vista,CA",San Diego,US,"33.1644, -117.2403",33.1644,-117.2403
+92082,18065,59.8,Valley Center,California,CA,"Valley Center,CA",San Diego,US,"33.249, -117.0122",33.249,-117.0122
+92083,39043,2565.3,Vista,California,CA,"Vista,CA",San Diego,US,"33.1978, -117.2482",33.1978,-117.2482
+92084,51419,703.2,Vista,California,CA,"Vista,CA",San Diego,US,"33.2131, -117.2243",33.2131,-117.2243
+92085,51419,703.2,Vista,California,CA,"Vista,CA",San Diego,US,"33.2, -117.2425",33.2,-117.2425
+92086,1544,2.8,Warner Springs,California,CA,"Warner Springs,CA",San Diego,US,"33.3096, -116.6527",33.3096,-116.6527
+92088,1544,2.8,Fallbrook,California,CA,"Fallbrook,CA",San Diego,US,"33.3764, -117.2511",33.3764,-117.2511
+92091,1343,620.1,Rancho Santa Fe,California,CA,"Rancho Santa Fe,CA",San Diego,US,"32.9623, -117.0462",32.9623,-117.0462
+92092,1343,620.1,La Jolla,California,CA,"La Jolla,CA",San Diego,US,"32.8473, -117.2742",32.8473,-117.2742
+92093,1343,620.1,La Jolla,California,CA,"La Jolla,CA",San Diego,US,"32.8473, -117.2742",32.8473,-117.2742
+92096,1343,620.1,San Marcos,California,CA,"San Marcos,CA",San Diego,US,"33.1434, -117.1661",33.1434,-117.1661
+92101,39313,3040.0,San Diego,California,CA,"San Diego,CA",San Diego,US,"32.7185, -117.1593",32.7185,-117.1593
+92102,44500,3603.0,San Diego,California,CA,"San Diego,CA",San Diego,US,"32.7139, -117.1219",32.7139,-117.1219
+92103,34878,3184.4,San Diego,California,CA,"San Diego,CA",San Diego,US,"32.7466, -117.1636",32.7466,-117.1636
+92104,45202,4531.3,San Diego,California,CA,"San Diego,CA",San Diego,US,"32.7454, -117.1272",32.7454,-117.1272
+92105,72848,4840.2,San Diego,California,CA,"San Diego,CA",San Diego,US,"32.7423, -117.0947",32.7423,-117.0947
+92106,19080,1319.8,San Diego,California,CA,"San Diego,CA",San Diego,US,"32.7272, -117.2268",32.7272,-117.2268
+92107,31148,3525.3,San Diego,California,CA,"San Diego,CA",San Diego,US,"32.7425, -117.2433",32.7425,-117.2433
+92108,22565,1682.1,San Diego,California,CA,"San Diego,CA",San Diego,US,"32.7783, -117.1335",32.7783,-117.1335
+92109,48417,2325.7,San Diego,California,CA,"San Diego,CA",San Diego,US,"32.7969, -117.2405",32.7969,-117.2405
+92110,29911,2013.1,San Diego,California,CA,"San Diego,CA",San Diego,US,"32.7635, -117.2028",32.7635,-117.2028
+92111,49369,2060.0,San Diego,California,CA,"San Diego,CA",San Diego,US,"32.7972, -117.1708",32.7972,-117.1708
+92112,49369,2060.0,San Diego,California,CA,"San Diego,CA",San Diego,US,"32.7153, -117.1573",32.7153,-117.1573
+92113,55623,4108.7,San Diego,California,CA,"San Diego,CA",San Diego,US,"32.697, -117.1153",32.697,-117.1153
+92114,70039,3066.7,San Diego,California,CA,"San Diego,CA",San Diego,US,"32.7059, -117.0524",32.7059,-117.0524
+92115,65853,3479.1,San Diego,California,CA,"San Diego,CA",San Diego,US,"32.7607, -117.0721",32.7607,-117.0721
+92116,33767,3561.5,San Diego,California,CA,"San Diego,CA",San Diego,US,"32.7624, -117.1242",32.7624,-117.1242
+92117,56173,2255.7,San Diego,California,CA,"San Diego,CA",San Diego,US,"32.8239, -117.1965",32.8239,-117.1965
+92118,22484,1166.3,Coronado,California,CA,"Coronado,CA",San Diego,US,"32.6807, -117.1698",32.6807,-117.1698
+92119,23990,1300.8,San Diego,California,CA,"San Diego,CA",San Diego,US,"32.8036, -117.0261",32.8036,-117.0261
+92120,29142,1501.7,San Diego,California,CA,"San Diego,CA",San Diego,US,"32.7958, -117.0707",32.7958,-117.0707
+92121,4655,131.7,San Diego,California,CA,"San Diego,CA",San Diego,US,"32.8919, -117.2035",32.8919,-117.2035
+92122,48438,1059.1,San Diego,California,CA,"San Diego,CA",San Diego,US,"32.8577, -117.2115",32.8577,-117.2115
+92123,31216,1265.3,San Diego,California,CA,"San Diego,CA",San Diego,US,"32.7973, -117.1392",32.7973,-117.1392
+92124,32170,1110.2,San Diego,California,CA,"San Diego,CA",San Diego,US,"32.8201, -117.0986",32.8201,-117.0986
+92126,82572,2244.1,San Diego,California,CA,"San Diego,CA",San Diego,US,"32.9161, -117.1402",32.9161,-117.1402
+92127,48721,688.3,San Diego,California,CA,"San Diego,CA",San Diego,US,"33.0279, -117.0856",33.0279,-117.0856
+92128,51066,1638.9,San Diego,California,CA,"San Diego,CA",San Diego,US,"33.0067, -117.069",33.0067,-117.069
+92129,54986,1415.6,San Diego,California,CA,"San Diego,CA",San Diego,US,"32.9652, -117.1213",32.9652,-117.1213
+92130,55316,1024.9,San Diego,California,CA,"San Diego,CA",San Diego,US,"32.9555, -117.2252",32.9555,-117.2252
+92131,34359,503.2,San Diego,California,CA,"San Diego,CA",San Diego,US,"32.9123, -117.0898",32.9123,-117.0898
+92132,0,0.0,San Diego,California,CA,"San Diego,CA",San Diego,US,"32.6437, -117.1384",32.6437,-117.1384
+92134,280,424.9,San Diego,California,CA,"San Diego,CA",San Diego,US,"32.7242, -117.1466",32.7242,-117.1466
+92135,646,466.1,San Diego,California,CA,"San Diego,CA",San Diego,US,"32.7153, -117.1573",32.7153,-117.1573
+92136,646,466.1,San Diego,California,CA,"San Diego,CA",San Diego,US,"32.6834, -117.1219",32.6834,-117.1219
+92137,646,466.1,San Diego,California,CA,"San Diego,CA",San Diego,US,"32.8538, -117.1197",32.8538,-117.1197
+92138,646,466.1,San Diego,California,CA,"San Diego,CA",San Diego,US,"32.7153, -117.1573",32.7153,-117.1573
+92139,37040,3748.6,San Diego,California,CA,"San Diego,CA",San Diego,US,"32.6806, -117.0474",32.6806,-117.0474
+92140,3669,2042.2,San Diego,California,CA,"San Diego,CA",San Diego,US,"32.7434, -117.2004",32.7434,-117.2004
+92142,3669,2042.2,San Diego,California,CA,"San Diego,CA",San Diego,US,"32.7153, -117.1573",32.7153,-117.1573
+92143,3669,2042.2,San Ysidro,California,CA,"San Ysidro,CA",San Diego,US,"33.2553, -116.5664",33.2553,-116.5664
+92145,2389,167.1,San Diego,California,CA,"San Diego,CA",San Diego,US,"32.8891, -117.1005",32.8891,-117.1005
+92147,551,2279.5,San Diego,California,CA,"San Diego,CA",San Diego,US,"32.7153, -117.1573",32.7153,-117.1573
+92149,551,2279.5,San Diego,California,CA,"San Diego,CA",San Diego,US,"32.7153, -117.1573",32.7153,-117.1573
+92150,551,2279.5,San Diego,California,CA,"San Diego,CA",San Diego,US,"32.7153, -117.1573",32.7153,-117.1573
+92152,551,2279.5,San Diego,California,CA,"San Diego,CA",San Diego,US,"32.7153, -117.1573",32.7153,-117.1573
+92153,551,2279.5,San Diego,California,CA,"San Diego,CA",San Diego,US,"32.7153, -117.1573",32.7153,-117.1573
+92154,86811,829.6,San Diego,California,CA,"San Diego,CA",San Diego,US,"32.5753, -117.0707",32.5753,-117.0707
+92155,490,945.5,San Diego,California,CA,"San Diego,CA",San Diego,US,"32.6716, -117.1657",32.6716,-117.1657
+92158,490,945.5,San Diego,California,CA,"San Diego,CA",San Diego,US,"32.7153, -117.1573",32.7153,-117.1573
+92159,490,945.5,San Diego,California,CA,"San Diego,CA",San Diego,US,"32.7153, -117.1573",32.7153,-117.1573
+92160,490,945.5,San Diego,California,CA,"San Diego,CA",San Diego,US,"32.7153, -117.1573",32.7153,-117.1573
+92161,490,945.5,San Diego,California,CA,"San Diego,CA",San Diego,US,"32.8718, -117.2291",32.8718,-117.2291
+92163,490,945.5,San Diego,California,CA,"San Diego,CA",San Diego,US,"32.7153, -117.1573",32.7153,-117.1573
+92165,490,945.5,San Diego,California,CA,"San Diego,CA",San Diego,US,"32.7153, -117.1573",32.7153,-117.1573
+92166,490,945.5,San Diego,California,CA,"San Diego,CA",San Diego,US,"32.7153, -117.1573",32.7153,-117.1573
+92167,490,945.5,San Diego,California,CA,"San Diego,CA",San Diego,US,"32.7153, -117.1573",32.7153,-117.1573
+92168,490,945.5,San Diego,California,CA,"San Diego,CA",San Diego,US,"32.7153, -117.1573",32.7153,-117.1573
+92169,490,945.5,San Diego,California,CA,"San Diego,CA",San Diego,US,"32.7153, -117.1573",32.7153,-117.1573
+92170,490,945.5,San Diego,California,CA,"San Diego,CA",San Diego,US,"32.7153, -117.1573",32.7153,-117.1573
+92171,490,945.5,San Diego,California,CA,"San Diego,CA",San Diego,US,"32.7153, -117.1573",32.7153,-117.1573
+92172,490,945.5,San Diego,California,CA,"San Diego,CA",San Diego,US,"32.7153, -117.1573",32.7153,-117.1573
+92173,31866,2242.8,San Ysidro,California,CA,"San Ysidro,CA",San Diego,US,"32.5626, -117.043",32.5626,-117.043
+92174,31866,2242.8,San Diego,California,CA,"San Diego,CA",San Diego,US,"32.7153, -117.1573",32.7153,-117.1573
+92175,31866,2242.8,San Diego,California,CA,"San Diego,CA",San Diego,US,"32.7153, -117.1573",32.7153,-117.1573
+92176,31866,2242.8,San Diego,California,CA,"San Diego,CA",San Diego,US,"32.7153, -117.1573",32.7153,-117.1573
+92177,31866,2242.8,San Diego,California,CA,"San Diego,CA",San Diego,US,"32.7153, -117.1573",32.7153,-117.1573
+92178,31866,2242.8,Coronado,California,CA,"Coronado,CA",San Diego,US,"32.6859, -117.1831",32.6859,-117.1831
+92179,31866,2242.8,San Diego,California,CA,"San Diego,CA",San Diego,US,"32.7153, -117.1573",32.7153,-117.1573
+92182,31866,2242.8,San Diego,California,CA,"San Diego,CA",San Diego,US,"32.7751, -117.0762",32.7751,-117.0762
+92186,31866,2242.8,San Diego,California,CA,"San Diego,CA",San Diego,US,"32.7153, -117.1573",32.7153,-117.1573
+92187,31866,2242.8,San Diego,California,CA,"San Diego,CA",San Diego,US,"32.7153, -117.1573",32.7153,-117.1573
+92190,31866,2242.8,San Diego,California,CA,"San Diego,CA",San Diego,US,"32.7153, -117.1573",32.7153,-117.1573
+92191,31866,2242.8,San Diego,California,CA,"San Diego,CA",San Diego,US,"32.7153, -117.1573",32.7153,-117.1573
+92192,31866,2242.8,San Diego,California,CA,"San Diego,CA",San Diego,US,"32.7153, -117.1573",32.7153,-117.1573
+92193,31866,2242.8,San Diego,California,CA,"San Diego,CA",San Diego,US,"32.7153, -117.1573",32.7153,-117.1573
+92195,31866,2242.8,San Diego,California,CA,"San Diego,CA",San Diego,US,"32.7153, -117.1573",32.7153,-117.1573
+92196,31866,2242.8,San Diego,California,CA,"San Diego,CA",San Diego,US,"32.7153, -117.1573",32.7153,-117.1573
+92197,31866,2242.8,San Diego,California,CA,"San Diego,CA",San Diego,US,"32.7153, -117.1573",32.7153,-117.1573
+92198,31866,2242.8,San Diego,California,CA,"San Diego,CA",San Diego,US,"32.7153, -117.1573",32.7153,-117.1573
+92199,31866,2242.8,San Diego,California,CA,"San Diego,CA",San Diego,US,"32.7516, -117.1918",32.7516,-117.1918
+90001,58975,6295.8,Los Angeles,California,CA,"Los Angeles,CA",Los Angeles,US,"33.9731, -118.2479",33.9731,-118.2479
+90002,53111,6458.9,Los Angeles,California,CA,"Los Angeles,CA",Los Angeles,US,"33.9497, -118.2462",33.9497,-118.2462
+90003,72741,7204.7,Los Angeles,California,CA,"Los Angeles,CA",Los Angeles,US,"33.9653, -118.2727",33.9653,-118.2727
+90004,61586,7876.3,Los Angeles,California,CA,"Los Angeles,CA",Los Angeles,US,"34.0762, -118.3029",34.0762,-118.3029
+90005,39479,13421.3,Los Angeles,California,CA,"Los Angeles,CA",Los Angeles,US,"34.0585, -118.3012",34.0585,-118.3012
+90006,61698,11903.1,Los Angeles,California,CA,"Los Angeles,CA",Los Angeles,US,"34.0493, -118.2917",34.0493,-118.2917
+90007,41716,6403.9,Los Angeles,California,CA,"Los Angeles,CA",Los Angeles,US,"34.0294, -118.2871",34.0294,-118.2871
+90008,31739,3398.1,Los Angeles,California,CA,"Los Angeles,CA",Los Angeles,US,"34.0116, -118.3411",34.0116,-118.3411
+90009,31739,3398.1,Los Angeles,California,CA,"Los Angeles,CA",Los Angeles,US,"34.0522, -118.2437",34.0522,-118.2437
+90010,3702,3208.3,Los Angeles,California,CA,"Los Angeles,CA",Los Angeles,US,"34.0606, -118.3027",34.0606,-118.3027
+90011,109414,9359.3,Los Angeles,California,CA,"Los Angeles,CA",Los Angeles,US,"34.0079, -118.2582",34.0079,-118.2582
+90012,35913,3711.6,Los Angeles,California,CA,"Los Angeles,CA",Los Angeles,US,"34.0614, -118.2385",34.0614,-118.2385
+90013,11937,6774.5,Los Angeles,California,CA,"Los Angeles,CA",Los Angeles,US,"34.0448, -118.2434",34.0448,-118.2434
+90014,8335,9550.9,Los Angeles,California,CA,"Los Angeles,CA",Los Angeles,US,"34.0443, -118.2509",34.0443,-118.2509
+90015,21801,4285.4,Los Angeles,California,CA,"Los Angeles,CA",Los Angeles,US,"34.0434, -118.2716",34.0434,-118.2716
+90016,46581,5066.6,Los Angeles,California,CA,"Los Angeles,CA",Los Angeles,US,"34.0298, -118.3528",34.0298,-118.3528
+90017,26728,12635.3,Los Angeles,California,CA,"Los Angeles,CA",Los Angeles,US,"34.0559, -118.2666",34.0559,-118.2666
+90018,53256,6574.4,Los Angeles,California,CA,"Los Angeles,CA",Los Angeles,US,"34.029, -118.3152",34.029,-118.3152
+90019,66245,6401.0,Los Angeles,California,CA,"Los Angeles,CA",Los Angeles,US,"34.0482, -118.3343",34.0482,-118.3343
+90020,39102,13310.8,Los Angeles,California,CA,"Los Angeles,CA",Los Angeles,US,"34.0665, -118.3022",34.0665,-118.3022
+90021,2922,736.8,Los Angeles,California,CA,"Los Angeles,CA",Los Angeles,US,"34.0333, -118.2447",34.0333,-118.2447
+90022,65890,5919.7,Los Angeles,California,CA,"Los Angeles,CA",Los Angeles,US,"34.0245, -118.1561",34.0245,-118.1561
+90023,46780,4195.7,Los Angeles,California,CA,"Los Angeles,CA",Los Angeles,US,"34.0245, -118.1975",34.0245,-118.1975
+90024,50288,6239.3,Los Angeles,California,CA,"Los Angeles,CA",Los Angeles,US,"34.0637, -118.4408",34.0637,-118.4408
+90025,47967,6333.7,Los Angeles,California,CA,"Los Angeles,CA",Los Angeles,US,"34.0447, -118.4487",34.0447,-118.4487
+90026,69589,6203.7,Los Angeles,California,CA,"Los Angeles,CA",Los Angeles,US,"34.0766, -118.2646",34.0766,-118.2646
+90027,44686,2143.2,Los Angeles,California,CA,"Los Angeles,CA",Los Angeles,US,"34.104, -118.2925",34.104,-118.2925
+90028,30734,7273.3,Los Angeles,California,CA,"Los Angeles,CA",Los Angeles,US,"34.1005, -118.3254",34.1005,-118.3254
+90029,37898,10949.3,Los Angeles,California,CA,"Los Angeles,CA",Los Angeles,US,"34.09, -118.2944",34.09,-118.2944
+90030,37898,10949.3,Los Angeles,California,CA,"Los Angeles,CA",Los Angeles,US,"34.0522, -118.2437",34.0522,-118.2437
+90031,38535,4395.7,Los Angeles,California,CA,"Los Angeles,CA",Los Angeles,US,"34.0783, -118.2113",34.0783,-118.2113
+90032,47627,3708.2,Los Angeles,California,CA,"Los Angeles,CA",Los Angeles,US,"34.0818, -118.1753",34.0818,-118.1753
+90033,47583,5772.8,Los Angeles,California,CA,"Los Angeles,CA",Los Angeles,US,"34.0487, -118.2084",34.0487,-118.2084
+90034,55652,7191.9,Los Angeles,California,CA,"Los Angeles,CA",Los Angeles,US,"34.029, -118.4005",34.029,-118.4005
+90035,28085,5357.4,Los Angeles,California,CA,"Los Angeles,CA",Los Angeles,US,"34.0531, -118.3806",34.0531,-118.3806
+90036,37988,5761.9,Los Angeles,California,CA,"Los Angeles,CA",Los Angeles,US,"34.0699, -118.3492",34.0699,-118.3492
+90037,65016,8475.0,Los Angeles,California,CA,"Los Angeles,CA",Los Angeles,US,"34.003, -118.2863",34.003,-118.2863
+90038,27660,7127.3,Los Angeles,California,CA,"Los Angeles,CA",Los Angeles,US,"34.0898, -118.3215",34.0898,-118.3215
+90039,29589,2920.0,Los Angeles,California,CA,"Los Angeles,CA",Los Angeles,US,"34.1121, -118.2594",34.1121,-118.2594
+90040,12645,866.1,Los Angeles,California,CA,"Los Angeles,CA",Los Angeles,US,"33.9909, -118.1532",33.9909,-118.1532
+90041,29516,2935.1,Los Angeles,California,CA,"Los Angeles,CA",Los Angeles,US,"34.1339, -118.2082",34.1339,-118.2082
+90042,63911,5186.6,Los Angeles,California,CA,"Los Angeles,CA",Los Angeles,US,"34.1145, -118.1929",34.1145,-118.1929
+90043,44627,4183.6,Los Angeles,California,CA,"Los Angeles,CA",Los Angeles,US,"33.9871, -118.3321",33.9871,-118.3321
+90044,96436,6748.4,Los Angeles,California,CA,"Los Angeles,CA",Los Angeles,US,"33.9551, -118.2901",33.9551,-118.2901
+90045,41149,1420.4,Los Angeles,California,CA,"Los Angeles,CA",Los Angeles,US,"33.9631, -118.3941",33.9631,-118.3941
+90046,50587,3242.8,Los Angeles,California,CA,"Los Angeles,CA",Los Angeles,US,"34.1074, -118.3652",34.1074,-118.3652
+90047,48883,3967.2,Los Angeles,California,CA,"Los Angeles,CA",Los Angeles,US,"33.9569, -118.3073",33.9569,-118.3073
+90048,22892,4381.0,Los Angeles,California,CA,"Los Angeles,CA",Los Angeles,US,"34.0737, -118.372",34.0737,-118.372
+90049,36964,912.1,Los Angeles,California,CA,"Los Angeles,CA",Los Angeles,US,"34.066, -118.474",34.066,-118.474
+90050,36964,912.1,Los Angeles,California,CA,"Los Angeles,CA",Los Angeles,US,"34.0522, -118.2437",34.0522,-118.2437
+90051,36964,912.1,Los Angeles,California,CA,"Los Angeles,CA",Los Angeles,US,"34.0522, -118.2437",34.0522,-118.2437
+90052,36964,912.1,Los Angeles,California,CA,"Los Angeles,CA",Los Angeles,US,"34.0522, -118.2437",34.0522,-118.2437
+90053,36964,912.1,Los Angeles,California,CA,"Los Angeles,CA",Los Angeles,US,"34.0522, -118.2437",34.0522,-118.2437
+90054,36964,912.1,Los Angeles,California,CA,"Los Angeles,CA",Los Angeles,US,"34.0522, -118.2437",34.0522,-118.2437
+90055,36964,912.1,Los Angeles,California,CA,"Los Angeles,CA",Los Angeles,US,"34.0522, -118.2437",34.0522,-118.2437
+90056,7795,1913.2,Los Angeles,California,CA,"Los Angeles,CA",Los Angeles,US,"33.9853, -118.3707",33.9853,-118.3707
+90057,49492,19618.0,Los Angeles,California,CA,"Los Angeles,CA",Los Angeles,US,"34.0622, -118.2763",34.0622,-118.2763
+90058,2758,214.3,Los Angeles,California,CA,"Los Angeles,CA",Los Angeles,US,"33.9994, -118.2133",33.9994,-118.2133
+90059,45952,4771.9,Los Angeles,California,CA,"Los Angeles,CA",Los Angeles,US,"33.9293, -118.2463",33.9293,-118.2463
+90060,45952,4771.9,Los Angeles,California,CA,"Los Angeles,CA",Los Angeles,US,"34.0522, -118.2437",34.0522,-118.2437
+90061,27646,3897.9,Los Angeles,California,CA,"Los Angeles,CA",Los Angeles,US,"33.9245, -118.2716",33.9245,-118.2716
+90062,34422,6553.3,Los Angeles,California,CA,"Los Angeles,CA",Los Angeles,US,"34.0032, -118.3073",34.0032,-118.3073
+90063,52951,6578.6,Los Angeles,California,CA,"Los Angeles,CA",Los Angeles,US,"34.0451, -118.1859",34.0451,-118.1859
+90064,25429,2445.3,Los Angeles,California,CA,"Los Angeles,CA",Los Angeles,US,"34.0353, -118.4259",34.0353,-118.4259
+90065,47887,3329.9,Los Angeles,California,CA,"Los Angeles,CA",Los Angeles,US,"34.1073, -118.2266",34.1073,-118.2266
+90066,59394,4336.8,Los Angeles,California,CA,"Los Angeles,CA",Los Angeles,US,"34.003, -118.4298",34.003,-118.4298
+90067,2314,2852.1,Los Angeles,California,CA,"Los Angeles,CA",Los Angeles,US,"34.0551, -118.4095",34.0551,-118.4095
+90068,20982,1110.6,Los Angeles,California,CA,"Los Angeles,CA",Los Angeles,US,"34.1156, -118.3305",34.1156,-118.3305
+90069,20435,3740.7,West Hollywood,California,CA,"West Hollywood,CA",Los Angeles,US,"34.0906, -118.3788",34.0906,-118.3788
+90070,20435,3740.7,Los Angeles,California,CA,"Los Angeles,CA",Los Angeles,US,"34.0522, -118.2437",34.0522,-118.2437
+90071,0,47.0,Los Angeles,California,CA,"Los Angeles,CA",Los Angeles,US,"34.0529, -118.2549",34.0529,-118.2549
+90072,0,47.0,Los Angeles,California,CA,"Los Angeles,CA",Los Angeles,US,"34.0522, -118.2437",34.0522,-118.2437
+90073,916,613.7,Los Angeles,California,CA,"Los Angeles,CA",Los Angeles,US,"33.7866, -118.2987",33.7866,-118.2987
+90074,916,613.7,Los Angeles,California,CA,"Los Angeles,CA",Los Angeles,US,"34.0522, -118.2437",34.0522,-118.2437
+90075,916,613.7,Los Angeles,California,CA,"Los Angeles,CA",Los Angeles,US,"34.0522, -118.2437",34.0522,-118.2437
+90076,916,613.7,Los Angeles,California,CA,"Los Angeles,CA",Los Angeles,US,"34.0522, -118.2437",34.0522,-118.2437
+90077,8993,493.7,Los Angeles,California,CA,"Los Angeles,CA",Los Angeles,US,"34.1112, -118.4502",34.1112,-118.4502
+90078,8993,493.7,Los Angeles,California,CA,"Los Angeles,CA",Los Angeles,US,"34.0522, -118.2437",34.0522,-118.2437
+90079,0,0.0,Los Angeles,California,CA,"Los Angeles,CA",Los Angeles,US,"33.7866, -118.2987",33.7866,-118.2987
+90080,0,0.0,Los Angeles,California,CA,"Los Angeles,CA",Los Angeles,US,"34.0522, -118.2437",34.0522,-118.2437
+90081,0,0.0,Los Angeles,California,CA,"Los Angeles,CA",Los Angeles,US,"34.0522, -118.2437",34.0522,-118.2437
+90082,0,0.0,Los Angeles,California,CA,"Los Angeles,CA",Los Angeles,US,"34.0522, -118.2437",34.0522,-118.2437
+90083,0,0.0,Los Angeles,California,CA,"Los Angeles,CA",Los Angeles,US,"34.0522, -118.2437",34.0522,-118.2437
+90084,0,0.0,Los Angeles,California,CA,"Los Angeles,CA",Los Angeles,US,"34.0522, -118.2437",34.0522,-118.2437
+90086,0,0.0,Los Angeles,California,CA,"Los Angeles,CA",Los Angeles,US,"34.0522, -118.2437",34.0522,-118.2437
+90087,0,0.0,Los Angeles,California,CA,"Los Angeles,CA",Los Angeles,US,"34.0522, -118.2437",34.0522,-118.2437
+90088,0,0.0,Los Angeles,California,CA,"Los Angeles,CA",Los Angeles,US,"34.0522, -118.2437",34.0522,-118.2437
+90089,3862,4331.1,Los Angeles,California,CA,"Los Angeles,CA",Los Angeles,US,"33.7866, -118.2987",33.7866,-118.2987
+90090,0,0.0,Dodgertown,California,CA,"Dodgertown,CA",Los Angeles,US,"34.0725, -118.2418",34.0725,-118.2418
+90091,0,0.0,Los Angeles,California,CA,"Los Angeles,CA",Los Angeles,US,"34.0522, -118.2437",34.0522,-118.2437
+90093,0,0.0,Los Angeles,California,CA,"Los Angeles,CA",Los Angeles,US,"34.0522, -118.2437",34.0522,-118.2437
+90094,9368,3460.4,Playa Vista,California,CA,"Playa Vista,CA",Los Angeles,US,"33.9728, -118.4276",33.9728,-118.4276
+90095,0,2.9,Los Angeles,California,CA,"Los Angeles,CA",Los Angeles,US,"33.7866, -118.2987",33.7866,-118.2987
+90096,0,2.9,Los Angeles,California,CA,"Los Angeles,CA",Los Angeles,US,"34.0522, -118.2437",34.0522,-118.2437
+90099,0,2.9,Los Angeles,California,CA,"Los Angeles,CA",Los Angeles,US,"34.0522, -118.2437",34.0522,-118.2437
+90189,0,2.9,Los Angeles,California,CA,"Los Angeles,CA",Los Angeles,US,"34.0515, -118.2559",34.0515,-118.2559
+90201,102433,6586.1,Bell Gardens,California,CA,"Bell Gardens,CA",Los Angeles,US,"33.9653, -118.1515",33.9653,-118.1515
+90202,102433,6586.1,Bell,California,CA,"Bell,CA",Los Angeles,US,"33.9775, -118.187",33.9775,-118.187
+90209,102433,6586.1,Beverly Hills,California,CA,"Beverly Hills,CA",Los Angeles,US,"34.0736, -118.4004",34.0736,-118.4004
+90210,19909,829.1,Beverly Hills,California,CA,"Beverly Hills,CA",Los Angeles,US,"34.0901, -118.4065",34.0901,-118.4065
+90211,7969,4649.4,Beverly Hills,California,CA,"Beverly Hills,CA",Los Angeles,US,"34.0652, -118.383",34.0652,-118.383
+90212,13156,4670.3,Beverly Hills,California,CA,"Beverly Hills,CA",Los Angeles,US,"34.0619, -118.3995",34.0619,-118.3995
+90213,13156,4670.3,Beverly Hills,California,CA,"Beverly Hills,CA",Los Angeles,US,"34.0736, -118.4004",34.0736,-118.4004
+90220,53703,2756.0,Compton,California,CA,"Compton,CA",Los Angeles,US,"33.8748, -118.2402",33.8748,-118.2402
+90221,52322,3889.0,Compton,California,CA,"Compton,CA",Los Angeles,US,"33.8796, -118.2168",33.8796,-118.2168
+90222,32850,4782.0,Compton,California,CA,"Compton,CA",Los Angeles,US,"33.9099, -118.2357",33.9099,-118.2357
+90223,32850,4782.0,Compton,California,CA,"Compton,CA",Los Angeles,US,"33.8958, -118.2201",33.8958,-118.2201
+90224,32850,4782.0,Compton,California,CA,"Compton,CA",Los Angeles,US,"33.7866, -118.2987",33.7866,-118.2987
+90230,32808,2719.9,Culver City,California,CA,"Culver City,CA",Los Angeles,US,"33.9949, -118.3991",33.9949,-118.3991
+90231,32808,2719.9,Culver City,California,CA,"Culver City,CA",Los Angeles,US,"34.0211, -118.3965",34.0211,-118.3965
+90232,14660,2777.2,Culver City,California,CA,"Culver City,CA",Los Angeles,US,"34.0168, -118.3973",34.0168,-118.3973
+90233,14660,2777.2,Culver City,California,CA,"Culver City,CA",Los Angeles,US,"34.0211, -118.3965",34.0211,-118.3965
+90239,14660,2777.2,Downey,California,CA,"Downey,CA",Los Angeles,US,"33.94, -118.1326",33.94,-118.1326
+90240,26205,3393.7,Downey,California,CA,"Downey,CA",Los Angeles,US,"33.9581, -118.1174",33.9581,-118.1174
+90241,44143,3324.6,Downey,California,CA,"Downey,CA",Los Angeles,US,"33.9416, -118.1306",33.9416,-118.1306
+90242,42553,3689.9,Downey,California,CA,"Downey,CA",Los Angeles,US,"33.9218, -118.1395",33.9218,-118.1395
+90245,16850,1177.0,El Segundo,California,CA,"El Segundo,CA",Los Angeles,US,"33.9243, -118.4119",33.9243,-118.4119
+90247,47531,4883.7,Gardena,California,CA,"Gardena,CA",Los Angeles,US,"33.8925, -118.2961",33.8925,-118.2961
+90248,11512,818.2,Gardena,California,CA,"Gardena,CA",Los Angeles,US,"33.8766, -118.2835",33.8766,-118.2835
+90249,26587,3457.8,Gardena,California,CA,"Gardena,CA",Los Angeles,US,"33.8998, -118.3199",33.8998,-118.3199
+90250,96836,5374.7,Hawthorne,California,CA,"Hawthorne,CA",Los Angeles,US,"33.9143, -118.3493",33.9143,-118.3493
+90251,96836,5374.7,Hawthorne,California,CA,"Hawthorne,CA",Los Angeles,US,"33.9164, -118.3526",33.9164,-118.3526
+90254,19650,5278.8,Hermosa Beach,California,CA,"Hermosa Beach,CA",Los Angeles,US,"33.8643, -118.3955",33.8643,-118.3955
+90255,75560,7794.8,Huntington Park,California,CA,"Huntington Park,CA",Los Angeles,US,"33.9769, -118.2161",33.9769,-118.2161
+90260,35161,5031.3,Lawndale,California,CA,"Lawndale,CA",Los Angeles,US,"33.8879, -118.351",33.8879,-118.351
+90261,35161,5031.3,Lawndale,California,CA,"Lawndale,CA",Los Angeles,US,"33.8872, -118.3526",33.8872,-118.3526
+90262,70936,5571.8,Lynwood,California,CA,"Lynwood,CA",Los Angeles,US,"33.9241, -118.2013",33.9241,-118.2013
+90263,1846,2755.0,Malibu,California,CA,"Malibu,CA",Los Angeles,US,"34.005, -118.8101",34.005,-118.8101
+90264,1846,2755.0,Malibu,California,CA,"Malibu,CA",Los Angeles,US,"34.005, -118.8101",34.005,-118.8101
+90265,18389,64.9,Malibu,California,CA,"Malibu,CA",Los Angeles,US,"34.0402, -118.7351",34.0402,-118.7351
+90266,35573,3446.3,Manhattan Beach,California,CA,"Manhattan Beach,CA",Los Angeles,US,"33.8896, -118.3996",33.8896,-118.3996
+90267,35573,3446.3,Manhattan Beach,California,CA,"Manhattan Beach,CA",Los Angeles,US,"33.7866, -118.2987",33.7866,-118.2987
+90270,27454,8376.2,Maywood,California,CA,"Maywood,CA",Los Angeles,US,"33.989, -118.1877",33.989,-118.1877
+90272,22551,388.7,Pacific Palisades,California,CA,"Pacific Palisades,CA",Los Angeles,US,"34.0481, -118.5265",34.0481,-118.5265
+90274,25279,813.1,Palos Verdes Peninsula,California,CA,"Palos Verdes Peninsula,CA",Los Angeles,US,"33.7669, -118.3806",33.7669,-118.3806
+90275,42421,1193.6,Rancho Palos Verdes,California,CA,"Rancho Palos Verdes,CA",Los Angeles,US,"33.7515, -118.367",33.7515,-118.367
+90277,34506,3804.3,Redondo Beach,California,CA,"Redondo Beach,CA",Los Angeles,US,"33.8307, -118.3832",33.8307,-118.3832
+90278,40649,4293.5,Redondo Beach,California,CA,"Redondo Beach,CA",Los Angeles,US,"33.8707, -118.3715",33.8707,-118.3715
+90280,95103,4989.2,South Gate,California,CA,"South Gate,CA",Los Angeles,US,"33.9462, -118.2013",33.9462,-118.2013
+90290,5371,122.6,Topanga,California,CA,"Topanga,CA",Los Angeles,US,"34.1076, -118.6023",34.1076,-118.6023
+90291,27525,4379.7,Venice,California,CA,"Venice,CA",Los Angeles,US,"33.9938, -118.4635",33.9938,-118.4635
+90292,22490,4091.9,Marina Del Rey,California,CA,"Marina Del Rey,CA",Los Angeles,US,"33.9779, -118.4525",33.9779,-118.4525
+90293,12694,1638.6,Playa Del Rey,California,CA,"Playa Del Rey,CA",Los Angeles,US,"33.9577, -118.4373",33.9577,-118.4373
+90294,12694,1638.6,Venice,California,CA,"Venice,CA",Los Angeles,US,"33.9908, -118.4601",33.9908,-118.4601
+90295,12694,1638.6,Marina Del Rey,California,CA,"Marina Del Rey,CA",Los Angeles,US,"33.7866, -118.2987",33.7866,-118.2987
+90296,12694,1638.6,Playa Del Rey,California,CA,"Playa Del Rey,CA",Los Angeles,US,"33.7866, -118.2987",33.7866,-118.2987
+90301,37291,5698.8,Inglewood,California,CA,"Inglewood,CA",Los Angeles,US,"33.955, -118.3556",33.955,-118.3556
+90302,30828,5998.7,Inglewood,California,CA,"Inglewood,CA",Los Angeles,US,"33.9745, -118.3548",33.9745,-118.3548
+90303,24693,4538.5,Inglewood,California,CA,"Inglewood,CA",Los Angeles,US,"33.9377, -118.3321",33.9377,-118.3321
+90304,25591,6952.5,Inglewood,California,CA,"Inglewood,CA",Los Angeles,US,"33.9379, -118.3586",33.9379,-118.3586
+90305,15397,2481.2,Inglewood,California,CA,"Inglewood,CA",Los Angeles,US,"33.9583, -118.3259",33.9583,-118.3259
+90306,15397,2481.2,Inglewood,California,CA,"Inglewood,CA",Los Angeles,US,"33.9617, -118.3531",33.9617,-118.3531
+90307,15397,2481.2,Inglewood,California,CA,"Inglewood,CA",Los Angeles,US,"33.7866, -118.2987",33.7866,-118.2987
+90308,15397,2481.2,Inglewood,California,CA,"Inglewood,CA",Los Angeles,US,"33.9617, -118.3531",33.9617,-118.3531
+90309,15397,2481.2,Inglewood,California,CA,"Inglewood,CA",Los Angeles,US,"33.7866, -118.2987",33.7866,-118.2987
+90310,15397,2481.2,Inglewood,California,CA,"Inglewood,CA",Los Angeles,US,"33.7866, -118.2987",33.7866,-118.2987
+90311,15397,2481.2,Inglewood,California,CA,"Inglewood,CA",Los Angeles,US,"33.9617, -118.3531",33.9617,-118.3531
+90312,15397,2481.2,Inglewood,California,CA,"Inglewood,CA",Los Angeles,US,"33.9617, -118.3531",33.9617,-118.3531
+90401,7256,3058.2,Santa Monica,California,CA,"Santa Monica,CA",Los Angeles,US,"34.0176, -118.4907",34.0176,-118.4907
+90402,11866,2360.4,Santa Monica,California,CA,"Santa Monica,CA",Los Angeles,US,"34.0349, -118.503",34.0349,-118.503
+90403,24354,6633.2,Santa Monica,California,CA,"Santa Monica,CA",Los Angeles,US,"34.0287, -118.4924",34.0287,-118.4924
+90404,22819,4138.6,Santa Monica,California,CA,"Santa Monica,CA",Los Angeles,US,"34.0268, -118.4733",34.0268,-118.4733
+90405,28115,3967.1,Santa Monica,California,CA,"Santa Monica,CA",Los Angeles,US,"34.01, -118.4717",34.01,-118.4717
+90406,28115,3967.1,Santa Monica,California,CA,"Santa Monica,CA",Los Angeles,US,"34.0195, -118.4912",34.0195,-118.4912
+90407,28115,3967.1,Santa Monica,California,CA,"Santa Monica,CA",Los Angeles,US,"34.0195, -118.4912",34.0195,-118.4912
+90408,28115,3967.1,Santa Monica,California,CA,"Santa Monica,CA",Los Angeles,US,"34.0195, -118.4912",34.0195,-118.4912
+90409,28115,3967.1,Santa Monica,California,CA,"Santa Monica,CA",Los Angeles,US,"34.0195, -118.4912",34.0195,-118.4912
+90410,28115,3967.1,Santa Monica,California,CA,"Santa Monica,CA",Los Angeles,US,"34.0195, -118.4912",34.0195,-118.4912
+90411,28115,3967.1,Santa Monica,California,CA,"Santa Monica,CA",Los Angeles,US,"34.0195, -118.4912",34.0195,-118.4912
+90501,42335,2964.5,Torrance,California,CA,"Torrance,CA",Los Angeles,US,"33.8268, -118.3118",33.8268,-118.3118
+90502,18188,3111.0,Torrance,California,CA,"Torrance,CA",Los Angeles,US,"33.8286, -118.292",33.8286,-118.292
+90503,44908,3234.8,Torrance,California,CA,"Torrance,CA",Los Angeles,US,"33.8397, -118.3542",33.8397,-118.3542
+90504,33721,2784.8,Torrance,California,CA,"Torrance,CA",Los Angeles,US,"33.8708, -118.3295",33.8708,-118.3295
+90505,37641,2444.3,Torrance,California,CA,"Torrance,CA",Los Angeles,US,"33.8106, -118.3507",33.8106,-118.3507
+90506,0,0.0,Torrance,California,CA,"Torrance,CA",Los Angeles,US,"33.7866, -118.2987",33.7866,-118.2987
+90507,0,0.0,Torrance,California,CA,"Torrance,CA",Los Angeles,US,"33.7866, -118.2987",33.7866,-118.2987
+90508,0,0.0,Torrance,California,CA,"Torrance,CA",Los Angeles,US,"33.7866, -118.2987",33.7866,-118.2987
+90509,0,0.0,Torrance,California,CA,"Torrance,CA",Los Angeles,US,"33.7866, -118.2987",33.7866,-118.2987
+90510,0,0.0,Torrance,California,CA,"Torrance,CA",Los Angeles,US,"33.7866, -118.2987",33.7866,-118.2987
+90601,33058,1088.0,Whittier,California,CA,"Whittier,CA",Los Angeles,US,"34.0011, -118.0371",34.0011,-118.0371
+90602,25981,2682.1,Whittier,California,CA,"Whittier,CA",Los Angeles,US,"33.9693, -118.0337",33.9693,-118.0337
+90603,21299,2369.4,Whittier,California,CA,"Whittier,CA",Los Angeles,US,"33.9432, -117.9927",33.9432,-117.9927
+90604,42063,3570.6,Whittier,California,CA,"Whittier,CA",Los Angeles,US,"33.9299, -118.0121",33.9299,-118.0121
+90605,40957,2755.2,Whittier,California,CA,"Whittier,CA",Los Angeles,US,"33.9413, -118.0356",33.9413,-118.0356
+90606,32803,3306.5,Whittier,California,CA,"Whittier,CA",Los Angeles,US,"33.9777, -118.0658",33.9777,-118.0658
+90607,32803,3306.5,Whittier,California,CA,"Whittier,CA",Los Angeles,US,"33.9792, -118.0328",33.9792,-118.0328
+90608,32803,3306.5,Whittier,California,CA,"Whittier,CA",Los Angeles,US,"33.9792, -118.0328",33.9792,-118.0328
+90609,32803,3306.5,Whittier,California,CA,"Whittier,CA",Los Angeles,US,"33.9792, -118.0328",33.9792,-118.0328
+90610,32803,3306.5,Whittier,California,CA,"Whittier,CA",Los Angeles,US,"33.9792, -118.0328",33.9792,-118.0328
+90637,69502,1878.6,La Mirada,California,CA,"La Mirada,CA",Los Angeles,US,"33.9172, -118.012",33.9172,-118.012
+90638,49383,2404.8,La Mirada,California,CA,"La Mirada,CA",Los Angeles,US,"33.9067, -118.0101",33.9067,-118.0101
+90639,49383,2404.8,La Mirada,California,CA,"La Mirada,CA",Los Angeles,US,"33.9058, -118.0182",33.9058,-118.0182
+90640,63177,2844.3,Montebello,California,CA,"Montebello,CA",Los Angeles,US,"34.0133, -118.113",34.0133,-118.113
+90650,105886,4154.1,Norwalk,California,CA,"Norwalk,CA",Los Angeles,US,"33.9056, -118.0818",33.9056,-118.0818
+90651,105886,4154.1,Norwalk,California,CA,"Norwalk,CA",Los Angeles,US,"33.9022, -118.0817",33.9022,-118.0817
+90652,105886,4154.1,Norwalk,California,CA,"Norwalk,CA",Los Angeles,US,"33.9022, -118.0817",33.9022,-118.0817
+90660,63380,3135.2,Pico Rivera,California,CA,"Pico Rivera,CA",Los Angeles,US,"33.9886, -118.0883",33.9886,-118.0883
+90661,63380,3135.2,Pico Rivera,California,CA,"Pico Rivera,CA",Los Angeles,US,"33.9831, -118.0967",33.9831,-118.0967
+90662,63380,3135.2,Pico Rivera,California,CA,"Pico Rivera,CA",Los Angeles,US,"33.9831, -118.0967",33.9831,-118.0967
+90670,16578,678.3,Santa Fe Springs,California,CA,"Santa Fe Springs,CA",Los Angeles,US,"33.9464, -118.0838",33.9464,-118.0838
+90671,16578,678.3,Santa Fe Springs,California,CA,"Santa Fe Springs,CA",Los Angeles,US,"33.9472, -118.0853",33.9472,-118.0853
+90701,16858,3929.9,Artesia,California,CA,"Artesia,CA",Los Angeles,US,"33.8654, -118.0731",33.8654,-118.0731
+90702,16858,3929.9,Artesia,California,CA,"Artesia,CA",Los Angeles,US,"33.8658, -118.0831",33.8658,-118.0831
+90703,50963,2173.1,Cerritos,California,CA,"Cerritos,CA",Los Angeles,US,"33.8669, -118.0686",33.8669,-118.0686
+90704,3922,21.1,Avalon,California,CA,"Avalon,CA",Los Angeles,US,"33.332, -118.3437",33.332,-118.3437
+90706,77529,4841.7,Bellflower,California,CA,"Bellflower,CA",Los Angeles,US,"33.8867, -118.1265",33.8867,-118.1265
+90707,77529,4841.7,Bellflower,California,CA,"Bellflower,CA",Los Angeles,US,"33.8817, -118.117",33.8817,-118.117
+90710,28185,4175.3,Harbor City,California,CA,"Harbor City,CA",Los Angeles,US,"33.797, -118.2991",33.797,-118.2991
+90711,28185,4175.3,Lakewood,California,CA,"Lakewood,CA",Los Angeles,US,"33.7866, -118.2987",33.7866,-118.2987
+90712,31063,2839.6,Lakewood,California,CA,"Lakewood,CA",Los Angeles,US,"33.8512, -118.1457",33.8512,-118.1457
+90713,29061,3176.9,Lakewood,California,CA,"Lakewood,CA",Los Angeles,US,"33.8473, -118.1115",33.8473,-118.1115
+90714,29061,3176.9,Lakewood,California,CA,"Lakewood,CA",Los Angeles,US,"33.8512, -118.1339",33.8512,-118.1339
+90715,20136,4629.2,Lakewood,California,CA,"Lakewood,CA",Los Angeles,US,"33.8405, -118.0767",33.8405,-118.0767
+90716,14344,5881.1,Hawaiian Gardens,California,CA,"Hawaiian Gardens,CA",Los Angeles,US,"33.8296, -118.073",33.8296,-118.073
+90717,21696,4154.6,Lomita,California,CA,"Lomita,CA",Los Angeles,US,"33.7938, -118.3172",33.7938,-118.3172
+90723,54776,4458.8,Paramount,California,CA,"Paramount,CA",Los Angeles,US,"33.8969, -118.1632",33.8969,-118.1632
+90731,61850,2515.4,San Pedro,California,CA,"San Pedro,CA",Los Angeles,US,"33.7339, -118.2914",33.7339,-118.2914
+90732,22273,2379.3,San Pedro,California,CA,"San Pedro,CA",Los Angeles,US,"33.742, -118.3121",33.742,-118.3121
+90733,22273,2379.3,San Pedro,California,CA,"San Pedro,CA",Los Angeles,US,"33.7866, -118.2987",33.7866,-118.2987
+90734,22273,2379.3,San Pedro,California,CA,"San Pedro,CA",Los Angeles,US,"33.7866, -118.2987",33.7866,-118.2987
+90744,57206,2491.9,Wilmington,California,CA,"Wilmington,CA",Los Angeles,US,"33.7855, -118.2645",33.7855,-118.2645
+90745,56821,2663.4,Carson,California,CA,"Carson,CA",Los Angeles,US,"33.823, -118.2684",33.823,-118.2684
+90746,26996,1720.4,Carson,California,CA,"Carson,CA",Los Angeles,US,"33.8584, -118.2554",33.8584,-118.2554
+90747,0,0.0,Carson,California,CA,"Carson,CA",Los Angeles,US,"33.8671, -118.2538",33.8671,-118.2538
+90748,0,0.0,Wilmington,California,CA,"Wilmington,CA",Los Angeles,US,"33.78, -118.2626",33.78,-118.2626
+90749,0,0.0,Carson,California,CA,"Carson,CA",Los Angeles,US,"33.7866, -118.2987",33.7866,-118.2987
+90755,11555,1962.2,Signal Hill,California,CA,"Signal Hill,CA",Los Angeles,US,"33.8029, -118.1677",33.8029,-118.1677
+90801,11555,1962.2,Long Beach,California,CA,"Long Beach,CA",Los Angeles,US,"33.767, -118.1892",33.767,-118.1892
+90802,39453,2342.2,Long Beach,California,CA,"Long Beach,CA",Los Angeles,US,"33.7706, -118.182",33.7706,-118.182
+90803,32389,3066.6,Long Beach,California,CA,"Long Beach,CA",Los Angeles,US,"33.7619, -118.1341",33.7619,-118.1341
+90804,39344,7361.5,Long Beach,California,CA,"Long Beach,CA",Los Angeles,US,"33.7857, -118.1357",33.7857,-118.1357
+90805,96708,4901.2,Long Beach,California,CA,"Long Beach,CA",Los Angeles,US,"33.8635, -118.1801",33.8635,-118.1801
+90806,42817,4756.1,Long Beach,California,CA,"Long Beach,CA",Los Angeles,US,"33.8045, -118.1876",33.8045,-118.1876
+90807,32067,2082.1,Long Beach,California,CA,"Long Beach,CA",Los Angeles,US,"33.8315, -118.1811",33.8315,-118.1811
+90808,38860,2148.3,Long Beach,California,CA,"Long Beach,CA",Los Angeles,US,"33.8241, -118.1103",33.8241,-118.1103
+90809,38860,2148.3,Long Beach,California,CA,"Long Beach,CA",Los Angeles,US,"33.7866, -118.2987",33.7866,-118.2987
+90810,38579,2118.1,Long Beach,California,CA,"Long Beach,CA",Los Angeles,US,"33.8193, -118.2325",33.8193,-118.2325
+90813,59000,7087.2,Long Beach,California,CA,"Long Beach,CA",Los Angeles,US,"33.782, -118.1835",33.782,-118.1835
+90814,18587,5453.5,Long Beach,California,CA,"Long Beach,CA",Los Angeles,US,"33.7716, -118.148",33.7716,-118.148
+90815,41026,2154.5,Long Beach,California,CA,"Long Beach,CA",Los Angeles,US,"33.7939, -118.1192",33.7939,-118.1192
+90822,139,278.0,Long Beach,California,CA,"Long Beach,CA",Los Angeles,US,"33.7927, -118.1638",33.7927,-118.1638
+90831,0,0.0,Long Beach,California,CA,"Long Beach,CA",Los Angeles,US,"33.7678, -118.1994",33.7678,-118.1994
+90832,0,0.0,Long Beach,California,CA,"Long Beach,CA",Los Angeles,US,"33.767, -118.1892",33.767,-118.1892
+90833,0,0.0,Long Beach,California,CA,"Long Beach,CA",Los Angeles,US,"33.7678, -118.1994",33.7678,-118.1994
+90834,0,0.0,Long Beach,California,CA,"Long Beach,CA",Los Angeles,US,"33.7678, -118.1994",33.7678,-118.1994
+90835,0,0.0,Long Beach,California,CA,"Long Beach,CA",Los Angeles,US,"33.7678, -118.1994",33.7678,-118.1994
+90840,0,0.0,Long Beach,California,CA,"Long Beach,CA",Los Angeles,US,"33.7843, -118.1157",33.7843,-118.1157
+90842,0,0.0,Long Beach,California,CA,"Long Beach,CA",Los Angeles,US,"33.7866, -118.2987",33.7866,-118.2987
+90844,0,0.0,Long Beach,California,CA,"Long Beach,CA",Los Angeles,US,"33.767, -118.1892",33.767,-118.1892
+90846,0,0.0,Long Beach,California,CA,"Long Beach,CA",Los Angeles,US,"33.8249, -118.1504",33.8249,-118.1504
+90847,0,0.0,Long Beach,California,CA,"Long Beach,CA",Los Angeles,US,"33.7866, -118.2987",33.7866,-118.2987
+90848,0,0.0,Long Beach,California,CA,"Long Beach,CA",Los Angeles,US,"33.7866, -118.2987",33.7866,-118.2987
+90853,0,0.0,Long Beach,California,CA,"Long Beach,CA",Los Angeles,US,"33.7866, -118.2987",33.7866,-118.2987
+90895,0,0.0,Carson,California,CA,"Carson,CA",Los Angeles,US,"33.8392, -118.2202",33.8392,-118.2202
+90899,0,0.0,Long Beach,California,CA,"Long Beach,CA",Los Angeles,US,"33.767, -118.1892",33.767,-118.1892
+91001,37711,1689.5,Altadena,California,CA,"Altadena,CA",Los Angeles,US,"34.1912, -118.1392",34.1912,-118.1392
+91003,37711,1689.5,Altadena,California,CA,"Altadena,CA",Los Angeles,US,"34.1897, -118.1312",34.1897,-118.1312
+91006,33012,1938.1,Arcadia,California,CA,"Arcadia,CA",Los Angeles,US,"34.1324, -118.0264",34.1324,-118.0264
+91007,34523,2368.1,Arcadia,California,CA,"Arcadia,CA",Los Angeles,US,"34.1243, -118.0515",34.1243,-118.0515
+91008,1141,265.3,Duarte,California,CA,"Duarte,CA",Los Angeles,US,"34.149, -117.9644",34.149,-117.9644
+91009,1141,265.3,Duarte,California,CA,"Duarte,CA",Los Angeles,US,"34.1395, -117.9773",34.1395,-117.9773
+91010,26601,1430.0,Duarte,California,CA,"Duarte,CA",Los Angeles,US,"34.1407, -117.9567",34.1407,-117.9567
+91011,20423,660.6,La Canada Flintridge,California,CA,"La Canada Flintridge,CA",Los Angeles,US,"34.2217, -118.2051",34.2217,-118.2051
+91012,20423,660.6,La Canada Flintridge,California,CA,"La Canada Flintridge,CA",Los Angeles,US,"34.1992, -118.1879",34.1992,-118.1879
+91016,41671,1846.5,Monrovia,California,CA,"Monrovia,CA",Los Angeles,US,"34.144, -118.0014",34.144,-118.0014
+91017,41671,1846.5,Monrovia,California,CA,"Monrovia,CA",Los Angeles,US,"34.1481, -117.999",34.1481,-117.999
+91020,8720,4320.4,Montrose,California,CA,"Montrose,CA",Los Angeles,US,"34.2114, -118.2305",34.2114,-118.2305
+91021,8720,4320.4,Montrose,California,CA,"Montrose,CA",Los Angeles,US,"34.2064, -118.2242",34.2064,-118.2242
+91023,8720,4320.4,Mount Wilson,California,CA,"Mount Wilson,CA",Los Angeles,US,"34.2264, -118.0662",34.2264,-118.0662
+91024,11006,1427.6,Sierra Madre,California,CA,"Sierra Madre,CA",Los Angeles,US,"34.1651, -118.0519",34.1651,-118.0519
+91025,11006,1427.6,Sierra Madre,California,CA,"Sierra Madre,CA",Los Angeles,US,"34.1617, -118.0528",34.1617,-118.0528
+91030,25794,2899.5,South Pasadena,California,CA,"South Pasadena,CA",Los Angeles,US,"34.1109, -118.1547",34.1109,-118.1547
+91031,25794,2899.5,South Pasadena,California,CA,"South Pasadena,CA",Los Angeles,US,"34.1161, -118.1503",34.1161,-118.1503
+91040,20207,958.9,Sunland,California,CA,"Sunland,CA",Los Angeles,US,"34.2618, -118.3371",34.2618,-118.3371
+91041,20207,958.9,Sunland,California,CA,"Sunland,CA",Los Angeles,US,"34.2669, -118.3023",34.2669,-118.3023
+91042,26631,213.5,Tujunga,California,CA,"Tujunga,CA",Los Angeles,US,"34.2544, -118.2849",34.2544,-118.2849
+91043,26631,213.5,Tujunga,California,CA,"Tujunga,CA",Los Angeles,US,"34.2522, -118.2884",34.2522,-118.2884
+91046,143,6019.9,Verdugo City,California,CA,"Verdugo City,CA",Los Angeles,US,"34.2114, -118.2395",34.2114,-118.2395
+91066,143,6019.9,Arcadia,California,CA,"Arcadia,CA",Los Angeles,US,"34.1397, -118.0353",34.1397,-118.0353
+91077,143,6019.9,Arcadia,California,CA,"Arcadia,CA",Los Angeles,US,"34.1397, -118.0353",34.1397,-118.0353
+91101,21394,5939.5,Pasadena,California,CA,"Pasadena,CA",Los Angeles,US,"34.1468, -118.1391",34.1468,-118.1391
+91102,21394,5939.5,Pasadena,California,CA,"Pasadena,CA",Los Angeles,US,"34.1478, -118.1445",34.1478,-118.1445
+91103,28425,1969.4,Pasadena,California,CA,"Pasadena,CA",Los Angeles,US,"34.1669, -118.1551",34.1669,-118.1551
+91104,37974,3728.6,Pasadena,California,CA,"Pasadena,CA",Los Angeles,US,"34.1678, -118.1261",34.1678,-118.1261
+91105,12191,1176.9,Pasadena,California,CA,"Pasadena,CA",Los Angeles,US,"34.1355, -118.1636",34.1355,-118.1636
+91106,25375,3176.0,Pasadena,California,CA,"Pasadena,CA",Los Angeles,US,"34.1435, -118.1266",34.1435,-118.1266
+91107,32364,1545.6,Pasadena,California,CA,"Pasadena,CA",Los Angeles,US,"34.151, -118.0889",34.151,-118.0889
+91108,13538,1353.7,San Marino,California,CA,"San Marino,CA",Los Angeles,US,"34.1207, -118.1117",34.1207,-118.1117
+91109,13538,1353.7,Pasadena,California,CA,"Pasadena,CA",Los Angeles,US,"34.1478, -118.1445",34.1478,-118.1445
+91110,13538,1353.7,Pasadena,California,CA,"Pasadena,CA",Los Angeles,US,"34.1478, -118.1445",34.1478,-118.1445
+91114,13538,1353.7,Pasadena,California,CA,"Pasadena,CA",Los Angeles,US,"34.1478, -118.1445",34.1478,-118.1445
+91115,13538,1353.7,Pasadena,California,CA,"Pasadena,CA",Los Angeles,US,"34.1478, -118.1445",34.1478,-118.1445
+91116,13538,1353.7,Pasadena,California,CA,"Pasadena,CA",Los Angeles,US,"34.1478, -118.1445",34.1478,-118.1445
+91117,13538,1353.7,Pasadena,California,CA,"Pasadena,CA",Los Angeles,US,"34.1478, -118.1445",34.1478,-118.1445
+91118,13538,1353.7,San Marino,California,CA,"San Marino,CA",Los Angeles,US,"34.1214, -118.1065",34.1214,-118.1065
+91121,13538,1353.7,Pasadena,California,CA,"Pasadena,CA",Los Angeles,US,"34.1478, -118.1445",34.1478,-118.1445
+91123,13538,1353.7,Pasadena,California,CA,"Pasadena,CA",Los Angeles,US,"34.1478, -118.1445",34.1478,-118.1445
+91124,13538,1353.7,Pasadena,California,CA,"Pasadena,CA",Los Angeles,US,"34.1478, -118.1445",34.1478,-118.1445
+91125,13538,1353.7,Pasadena,California,CA,"Pasadena,CA",Los Angeles,US,"34.1478, -118.1445",34.1478,-118.1445
+91126,13538,1353.7,Pasadena,California,CA,"Pasadena,CA",Los Angeles,US,"34.1478, -118.1445",34.1478,-118.1445
+91129,13538,1353.7,Pasadena,California,CA,"Pasadena,CA",Los Angeles,US,"34.1478, -118.1445",34.1478,-118.1445
+91182,13538,1353.7,Pasadena,California,CA,"Pasadena,CA",Los Angeles,US,"34.1478, -118.1445",34.1478,-118.1445
+91184,13538,1353.7,Pasadena,California,CA,"Pasadena,CA",Los Angeles,US,"34.1478, -118.1445",34.1478,-118.1445
+91185,13538,1353.7,Pasadena,California,CA,"Pasadena,CA",Los Angeles,US,"34.1478, -118.1445",34.1478,-118.1445
+91188,13538,1353.7,Pasadena,California,CA,"Pasadena,CA",Los Angeles,US,"34.1478, -118.1445",34.1478,-118.1445
+91189,13538,1353.7,Pasadena,California,CA,"Pasadena,CA",Los Angeles,US,"34.1478, -118.1445",34.1478,-118.1445
+91199,13538,1353.7,Pasadena,California,CA,"Pasadena,CA",Los Angeles,US,"34.1478, -118.1436",34.1478,-118.1436
+91201,23619,3736.0,Glendale,California,CA,"Glendale,CA",Los Angeles,US,"34.1716, -118.2899",34.1716,-118.2899
+91202,23317,4300.7,Glendale,California,CA,"Glendale,CA",Los Angeles,US,"34.1652, -118.2656",34.1652,-118.2656
+91203,15000,6235.9,Glendale,California,CA,"Glendale,CA",Los Angeles,US,"34.1517, -118.2636",34.1517,-118.2636
+91204,18720,5507.2,Glendale,California,CA,"Glendale,CA",Los Angeles,US,"34.1379, -118.2599",34.1379,-118.2599
+91205,37618,7720.3,Glendale,California,CA,"Glendale,CA",Los Angeles,US,"34.1378, -118.2425",34.1378,-118.2425
+91206,34386,2170.3,Glendale,California,CA,"Glendale,CA",Los Angeles,US,"34.1556, -118.2322",34.1556,-118.2322
+91207,11371,892.3,Glendale,California,CA,"Glendale,CA",Los Angeles,US,"34.1649, -118.2451",34.1649,-118.2451
+91208,16049,908.8,Glendale,California,CA,"Glendale,CA",Los Angeles,US,"34.1921, -118.235",34.1921,-118.235
+91209,16049,908.8,Glendale,California,CA,"Glendale,CA",Los Angeles,US,"34.1425, -118.2551",34.1425,-118.2551
+91210,689,2877.0,Glendale,California,CA,"Glendale,CA",Los Angeles,US,"34.1425, -118.2551",34.1425,-118.2551
+91214,30654,1553.1,La Crescenta,California,CA,"La Crescenta,CA",Los Angeles,US,"34.2316, -118.2457",34.2316,-118.2457
+91221,30654,1553.1,Glendale,California,CA,"Glendale,CA",Los Angeles,US,"34.1425, -118.2551",34.1425,-118.2551
+91222,30654,1553.1,Glendale,California,CA,"Glendale,CA",Los Angeles,US,"34.1425, -118.2551",34.1425,-118.2551
+91224,30654,1553.1,La Crescenta,California,CA,"La Crescenta,CA",Los Angeles,US,"34.2242, -118.2401",34.2242,-118.2401
+91225,30654,1553.1,Glendale,California,CA,"Glendale,CA",Los Angeles,US,"34.1425, -118.2551",34.1425,-118.2551
+91226,30654,1553.1,Glendale,California,CA,"Glendale,CA",Los Angeles,US,"34.1425, -118.2551",34.1425,-118.2551
+91301,25631,288.6,Agoura Hills,California,CA,"Agoura Hills,CA",Los Angeles,US,"34.1227, -118.7573",34.1227,-118.7573
+91302,26634,371.6,Calabasas,California,CA,"Calabasas,CA",Los Angeles,US,"34.1419, -118.6641",34.1419,-118.6641
+91303,31053,4792.8,Canoga Park,California,CA,"Canoga Park,CA",Los Angeles,US,"34.1993, -118.5983",34.1993,-118.5983
+91304,53761,2062.1,Canoga Park,California,CA,"Canoga Park,CA",Los Angeles,US,"34.2197, -118.6111",34.2197,-118.6111
+91305,53761,2062.1,Canoga Park,California,CA,"Canoga Park,CA",Los Angeles,US,"34.2011, -118.5981",34.2011,-118.5981
+91306,49158,4204.2,Winnetka,California,CA,"Winnetka,CA",Los Angeles,US,"34.2092, -118.5749",34.2092,-118.5749
+91307,26595,1172.5,West Hills,California,CA,"West Hills,CA",Los Angeles,US,"34.1963, -118.6389",34.1963,-118.6389
+91308,26595,1172.5,West Hills,California,CA,"West Hills,CA",Los Angeles,US,"34.1973, -118.644",34.1973,-118.644
+91309,26595,1172.5,Canoga Park,California,CA,"Canoga Park,CA",Los Angeles,US,"34.2011, -118.5981",34.2011,-118.5981
+91310,26595,1172.5,Castaic,California,CA,"Castaic,CA",Los Angeles,US,"34.4889, -118.6229",34.4889,-118.6229
+91311,40420,440.0,Chatsworth,California,CA,"Chatsworth,CA",Los Angeles,US,"34.2583, -118.5914",34.2583,-118.5914
+91313,40420,440.0,Chatsworth,California,CA,"Chatsworth,CA",Los Angeles,US,"34.2572, -118.6012",34.2572,-118.6012
+91316,29964,2074.1,Encino,California,CA,"Encino,CA",Los Angeles,US,"34.1655, -118.5175",34.1655,-118.5175
+91321,34355,520.4,Newhall,California,CA,"Newhall,CA",Los Angeles,US,"34.3795, -118.523",34.3795,-118.523
+91322,34355,520.4,Newhall,California,CA,"Newhall,CA",Los Angeles,US,"34.3847, -118.5309",34.3847,-118.5309
+91324,29617,2433.8,Northridge,California,CA,"Northridge,CA",Los Angeles,US,"34.2367, -118.5466",34.2367,-118.5466
+91325,34635,2594.1,Northridge,California,CA,"Northridge,CA",Los Angeles,US,"34.2353, -118.5188",34.2353,-118.5188
+91326,37035,1595.1,Porter Ranch,California,CA,"Porter Ranch,CA",Los Angeles,US,"34.2619, -118.582",34.2619,-118.582
+91327,37035,1595.1,Northridge,California,CA,"Northridge,CA",Los Angeles,US,"34.2283, -118.5368",34.2283,-118.5368
+91328,37035,1595.1,Northridge,California,CA,"Northridge,CA",Los Angeles,US,"34.2283, -118.5368",34.2283,-118.5368
+91329,37035,1595.1,Northridge,California,CA,"Northridge,CA",Los Angeles,US,"34.2283, -118.5368",34.2283,-118.5368
+91330,3273,3096.7,Northridge,California,CA,"Northridge,CA",Los Angeles,US,"34.2283, -118.5368",34.2283,-118.5368
+91331,105799,4522.3,Pacoima,California,CA,"Pacoima,CA",Los Angeles,US,"34.2556, -118.4208",34.2556,-118.4208
+91333,105799,4522.3,Pacoima,California,CA,"Pacoima,CA",Los Angeles,US,"34.2625, -118.427",34.2625,-118.427
+91334,105799,4522.3,Pacoima,California,CA,"Pacoima,CA",Los Angeles,US,"34.2625, -118.427",34.2625,-118.427
+91335,80524,4373.7,Reseda,California,CA,"Reseda,CA",Los Angeles,US,"34.2007, -118.5391",34.2007,-118.5391
+91337,80524,4373.7,Reseda,California,CA,"Reseda,CA",Los Angeles,US,"34.2011, -118.5365",34.2011,-118.5365
+91340,36227,3904.0,San Fernando,California,CA,"San Fernando,CA",Los Angeles,US,"34.2875, -118.4352",34.2875,-118.4352
+91341,36227,3904.0,San Fernando,California,CA,"San Fernando,CA",Los Angeles,US,"34.2819, -118.439",34.2819,-118.439
+91342,96487,642.6,Sylmar,California,CA,"Sylmar,CA",Los Angeles,US,"34.3054, -118.4322",34.3054,-118.4322
+91343,66590,3935.6,North Hills,California,CA,"North Hills,CA",Los Angeles,US,"34.2366, -118.4758",34.2366,-118.4758
+91344,53266,1217.5,Granada Hills,California,CA,"Granada Hills,CA",Los Angeles,US,"34.2771, -118.4992",34.2771,-118.4992
+91345,19205,2203.5,Mission Hills,California,CA,"Mission Hills,CA",Los Angeles,US,"34.2619, -118.4587",34.2619,-118.4587
+91346,19205,2203.5,Mission Hills,California,CA,"Mission Hills,CA",Los Angeles,US,"34.2572, -118.467",34.2572,-118.467
+91350,37350,759.8,Santa Clarita,California,CA,"Santa Clarita,CA",Los Angeles,US,"34.4336, -118.5007",34.4336,-118.5007
+91351,32572,1305.5,Canyon Country,California,CA,"Canyon Country,CA",Los Angeles,US,"34.4262, -118.449",34.4262,-118.449
+91352,47438,1581.9,Sun Valley,California,CA,"Sun Valley,CA",Los Angeles,US,"34.2209, -118.3699",34.2209,-118.3699
+91353,47438,1581.9,Sun Valley,California,CA,"Sun Valley,CA",Los Angeles,US,"34.2175, -118.3704",34.2175,-118.3704
+91354,32096,1271.0,Valencia,California,CA,"Valencia,CA",Los Angeles,US,"34.4466, -118.5374",34.4466,-118.5374
+91355,31455,812.1,Valencia,California,CA,"Valencia,CA",Los Angeles,US,"34.3985, -118.5535",34.3985,-118.5535
+91356,30804,1550.7,Tarzana,California,CA,"Tarzana,CA",Los Angeles,US,"34.1671, -118.5414",34.1671,-118.5414
+91357,30804,1550.7,Tarzana,California,CA,"Tarzana,CA",Los Angeles,US,"34.1733, -118.554",34.1733,-118.554
+91364,27340,1314.5,Woodland Hills,California,CA,"Woodland Hills,CA",Los Angeles,US,"34.1557, -118.6",34.1557,-118.6
+91365,27340,1314.5,Woodland Hills,California,CA,"Woodland Hills,CA",Los Angeles,US,"34.1683, -118.6059",34.1683,-118.6059
+91367,45282,2052.4,Woodland Hills,California,CA,"Woodland Hills,CA",Los Angeles,US,"34.1767, -118.6159",34.1767,-118.6159
+91371,0,1.6,Woodland Hills,California,CA,"Woodland Hills,CA",Los Angeles,US,"34.1683, -118.6059",34.1683,-118.6059
+91372,0,1.6,Calabasas,California,CA,"Calabasas,CA",Los Angeles,US,"34.1578, -118.6384",34.1578,-118.6384
+91376,0,1.6,Agoura Hills,California,CA,"Agoura Hills,CA",Los Angeles,US,"34.1364, -118.7745",34.1364,-118.7745
+91380,13730,1007.5,Santa Clarita,California,CA,"Santa Clarita,CA",Los Angeles,US,"34.3917, -118.5426",34.3917,-118.5426
+91381,20371,206.9,Stevenson Ranch,California,CA,"Stevenson Ranch,CA",Los Angeles,US,"34.3775, -118.6131",34.3775,-118.6131
+91382,20371,206.9,Santa Clarita,California,CA,"Santa Clarita,CA",Los Angeles,US,"34.3917, -118.5426",34.3917,-118.5426
+91383,20371,206.9,Santa Clarita,California,CA,"Santa Clarita,CA",Los Angeles,US,"34.3917, -118.5426",34.3917,-118.5426
+91384,28842,106.1,Castaic,California,CA,"Castaic,CA",Los Angeles,US,"34.4827, -118.6254",34.4827,-118.6254
+91385,28842,106.1,Valencia,California,CA,"Valencia,CA",Los Angeles,US,"34.4436, -118.6095",34.4436,-118.6095
+91386,28842,106.1,Canyon Country,California,CA,"Canyon Country,CA",Los Angeles,US,"34.4233, -118.472",34.4233,-118.472
+91387,43717,314.4,Canyon Country,California,CA,"Canyon Country,CA",Los Angeles,US,"34.4132, -118.426",34.4132,-118.426
+91390,19053,53.4,Santa Clarita,California,CA,"Santa Clarita,CA",Los Angeles,US,"34.4684, -118.5261",34.4684,-118.5261
+91392,19053,53.4,Sylmar,California,CA,"Sylmar,CA",Los Angeles,US,"34.3078, -118.4492",34.3078,-118.4492
+91393,19053,53.4,North Hills,California,CA,"North Hills,CA",Los Angeles,US,"34.2364, -118.4847",34.2364,-118.4847
+91394,19053,53.4,Granada Hills,California,CA,"Granada Hills,CA",Los Angeles,US,"34.2647, -118.5231",34.2647,-118.5231
+91395,19053,53.4,Mission Hills,California,CA,"Mission Hills,CA",Los Angeles,US,"34.2572, -118.467",34.2572,-118.467
+91396,19053,53.4,Winnetka,California,CA,"Winnetka,CA",Los Angeles,US,"34.2133, -118.572",34.2133,-118.572
+91401,41412,4392.5,Van Nuys,California,CA,"Van Nuys,CA",Los Angeles,US,"34.1802, -118.4324",34.1802,-118.4324
+91402,70686,7232.8,Panorama City,California,CA,"Panorama City,CA",Los Angeles,US,"34.2262, -118.447",34.2262,-118.447
+91403,25218,2497.2,Sherman Oaks,California,CA,"Sherman Oaks,CA",Los Angeles,US,"34.1514, -118.4603",34.1514,-118.4603
+91404,25218,2497.2,Van Nuys,California,CA,"Van Nuys,CA",Los Angeles,US,"34.1867, -118.449",34.1867,-118.449
+91405,55384,5967.9,Van Nuys,California,CA,"Van Nuys,CA",Los Angeles,US,"34.2001, -118.4456",34.2001,-118.4456
+91406,55215,2448.0,Van Nuys,California,CA,"Van Nuys,CA",Los Angeles,US,"34.2006, -118.4868",34.2006,-118.4868
+91407,55215,2448.0,Van Nuys,California,CA,"Van Nuys,CA",Los Angeles,US,"34.1867, -118.449",34.1867,-118.449
+91408,55215,2448.0,Van Nuys,California,CA,"Van Nuys,CA",Los Angeles,US,"34.1867, -118.449",34.1867,-118.449
+91409,55215,2448.0,Van Nuys,California,CA,"Van Nuys,CA",Los Angeles,US,"34.1867, -118.449",34.1867,-118.449
+91410,55215,2448.0,Van Nuys,California,CA,"Van Nuys,CA",Los Angeles,US,"34.1867, -118.449",34.1867,-118.449
+91411,25801,4655.8,Van Nuys,California,CA,"Van Nuys,CA",Los Angeles,US,"34.1781, -118.4574",34.1781,-118.4574
+91412,25801,4655.8,Panorama City,California,CA,"Panorama City,CA",Los Angeles,US,"34.2247, -118.4498",34.2247,-118.4498
+91413,25801,4655.8,Sherman Oaks,California,CA,"Sherman Oaks,CA",Los Angeles,US,"34.1511, -118.4492",34.1511,-118.4492
+91416,25801,4655.8,Encino,California,CA,"Encino,CA",Los Angeles,US,"34.1592, -118.5012",34.1592,-118.5012
+91423,33737,2742.5,Sherman Oaks,California,CA,"Sherman Oaks,CA",Los Angeles,US,"34.1526, -118.4322",34.1526,-118.4322
+91426,33737,2742.5,Encino,California,CA,"Encino,CA",Los Angeles,US,"34.1592, -118.5012",34.1592,-118.5012
+91436,15070,974.4,Encino,California,CA,"Encino,CA",Los Angeles,US,"34.151, -118.4882",34.151,-118.4882
+91470,15070,974.4,Van Nuys,California,CA,"Van Nuys,CA",Los Angeles,US,"34.1867, -118.449",34.1867,-118.449
+91482,15070,974.4,Van Nuys,California,CA,"Van Nuys,CA",Los Angeles,US,"34.1867, -118.449",34.1867,-118.449
+91495,15070,974.4,Sherman Oaks,California,CA,"Sherman Oaks,CA",Los Angeles,US,"34.1511, -118.4492",34.1511,-118.4492
+91496,15070,974.4,Van Nuys,California,CA,"Van Nuys,CA",Los Angeles,US,"34.1867, -118.449",34.1867,-118.449
+91499,15070,974.4,Van Nuys,California,CA,"Van Nuys,CA",Los Angeles,US,"34.1867, -118.449",34.1867,-118.449
+91501,20300,2029.0,Burbank,California,CA,"Burbank,CA",Los Angeles,US,"34.1862, -118.3009",34.1862,-118.3009
+91502,11598,3270.7,Burbank,California,CA,"Burbank,CA",Los Angeles,US,"34.1745, -118.3059",34.1745,-118.3059
+91503,11598,3270.7,Burbank,California,CA,"Burbank,CA",Los Angeles,US,"34.1808, -118.309",34.1808,-118.309
+91504,26863,1950.9,Burbank,California,CA,"Burbank,CA",Los Angeles,US,"34.2001, -118.3264",34.2001,-118.3264
+91505,30680,2357.7,Burbank,California,CA,"Burbank,CA",Los Angeles,US,"34.169, -118.3442",34.169,-118.3442
+91506,18575,2981.7,Burbank,California,CA,"Burbank,CA",Los Angeles,US,"34.1717, -118.3231",34.1717,-118.3231
+91507,18575,2981.7,Burbank,California,CA,"Burbank,CA",Los Angeles,US,"34.1808, -118.309",34.1808,-118.309
+91508,18575,2981.7,Burbank,California,CA,"Burbank,CA",Los Angeles,US,"34.1808, -118.309",34.1808,-118.309
+91510,18575,2981.7,Burbank,California,CA,"Burbank,CA",Los Angeles,US,"34.1808, -118.309",34.1808,-118.309
+91521,18575,2981.7,Burbank,California,CA,"Burbank,CA",Los Angeles,US,"34.1808, -118.309",34.1808,-118.309
+91522,18575,2981.7,Burbank,California,CA,"Burbank,CA",Los Angeles,US,"34.1808, -118.309",34.1808,-118.309
+91523,18575,2981.7,Burbank,California,CA,"Burbank,CA",Los Angeles,US,"34.1808, -118.309",34.1808,-118.309
+91526,18575,2981.7,Burbank,California,CA,"Burbank,CA",Los Angeles,US,"34.1808, -118.309",34.1808,-118.309
+91601,37085,5416.4,North Hollywood,California,CA,"North Hollywood,CA",Los Angeles,US,"34.1687, -118.3713",34.1687,-118.3713
+91602,19358,3293.6,North Hollywood,California,CA,"North Hollywood,CA",Los Angeles,US,"34.151, -118.3663",34.151,-118.3663
+91603,19358,3293.6,North Hollywood,California,CA,"North Hollywood,CA",Los Angeles,US,"34.1722, -118.379",34.1722,-118.379
+91604,32117,2176.4,Studio City,California,CA,"Studio City,CA",Los Angeles,US,"34.143, -118.3913",34.143,-118.3913
+91605,52210,3981.2,North Hollywood,California,CA,"North Hollywood,CA",Los Angeles,US,"34.2057, -118.4001",34.2057,-118.4001
+91606,44476,5208.8,North Hollywood,California,CA,"North Hollywood,CA",Los Angeles,US,"34.1872, -118.3865",34.1872,-118.3865
+91607,30873,4420.0,Valley Village,California,CA,"Valley Village,CA",Los Angeles,US,"34.1672, -118.3989",34.1672,-118.3989
+91608,0,0.0,Universal City,California,CA,"Universal City,CA",Los Angeles,US,"34.1383, -118.3528",34.1383,-118.3528
+91609,0,0.0,North Hollywood,California,CA,"North Hollywood,CA",Los Angeles,US,"34.1722, -118.379",34.1722,-118.379
+91610,0,0.0,Toluca Lake,California,CA,"Toluca Lake,CA",Los Angeles,US,"33.7866, -118.2987",33.7866,-118.2987
+91611,0,0.0,North Hollywood,California,CA,"North Hollywood,CA",Los Angeles,US,"34.1722, -118.379",34.1722,-118.379
+91612,0,0.0,North Hollywood,California,CA,"North Hollywood,CA",Los Angeles,US,"34.1722, -118.379",34.1722,-118.379
+91614,0,0.0,Studio City,California,CA,"Studio City,CA",Los Angeles,US,"34.1486, -118.3965",34.1486,-118.3965
+91615,0,0.0,North Hollywood,California,CA,"North Hollywood,CA",Los Angeles,US,"34.1722, -118.379",34.1722,-118.379
+91616,0,0.0,North Hollywood,California,CA,"North Hollywood,CA",Los Angeles,US,"34.1722, -118.379",34.1722,-118.379
+91617,0,0.0,Valley Village,California,CA,"Valley Village,CA",Los Angeles,US,"34.1649, -118.3965",34.1649,-118.3965
+91618,0,0.0,North Hollywood,California,CA,"North Hollywood,CA",Los Angeles,US,"34.1722, -118.379",34.1722,-118.379
+91702,62348,136.1,Azusa,California,CA,"Azusa,CA",Los Angeles,US,"34.1248, -117.9031",34.1248,-117.9031
+91706,77342,2200.7,Baldwin Park,California,CA,"Baldwin Park,CA",Los Angeles,US,"34.0964, -117.9682",34.0964,-117.9682
+91711,36854,918.3,Claremont,California,CA,"Claremont,CA",Los Angeles,US,"34.1092, -117.7183",34.1092,-117.7183
+91714,36854,918.3,City Of Industry,California,CA,"City Of Industry,CA",Los Angeles,US,"34.0197, -117.9587",34.0197,-117.9587
+91715,36854,918.3,City Of Industry,California,CA,"City Of Industry,CA",Los Angeles,US,"34.0197, -117.9587",34.0197,-117.9587
+91716,36854,918.3,City Of Industry,California,CA,"City Of Industry,CA",Los Angeles,US,"34.0197, -117.9587",34.0197,-117.9587
+91722,35708,3216.1,Covina,California,CA,"Covina,CA",Los Angeles,US,"34.0972, -117.9065",34.0972,-117.9065
+91723,18875,3037.9,Covina,California,CA,"Covina,CA",Los Angeles,US,"34.086, -117.8843",34.086,-117.8843
+91724,26091,1621.5,Covina,California,CA,"Covina,CA",Los Angeles,US,"34.0938, -117.856",34.0938,-117.856
+91731,30139,2994.6,El Monte,California,CA,"El Monte,CA",Los Angeles,US,"34.0791, -118.0371",34.0791,-118.0371
+91732,63572,5134.0,El Monte,California,CA,"El Monte,CA",Los Angeles,US,"34.0705, -118.0149",34.0705,-118.0149
+91733,44968,2537.7,South El Monte,California,CA,"South El Monte,CA",Los Angeles,US,"34.0557, -118.0444",34.0557,-118.0444
+91734,44968,2537.7,El Monte,California,CA,"El Monte,CA",Los Angeles,US,"34.0686, -118.0276",34.0686,-118.0276
+91735,44968,2537.7,El Monte,California,CA,"El Monte,CA",Los Angeles,US,"34.0686, -118.0276",34.0686,-118.0276
+91740,26115,1966.5,Glendora,California,CA,"Glendora,CA",Los Angeles,US,"34.1287, -117.8552",34.1287,-117.8552
+91741,26565,672.5,Glendora,California,CA,"Glendora,CA",Los Angeles,US,"34.1537, -117.8437",34.1537,-117.8437
+91744,87240,3735.6,La Puente,California,CA,"La Puente,CA",Los Angeles,US,"34.0289, -117.9373",34.0289,-117.9373
+91745,54975,1628.2,Hacienda Heights,California,CA,"Hacienda Heights,CA",Los Angeles,US,"33.9977, -117.9652",33.9977,-117.9652
+91746,30708,2113.3,La Puente,California,CA,"La Puente,CA",Los Angeles,US,"34.0443, -117.9862",34.0443,-117.9862
+91747,30708,2113.3,La Puente,California,CA,"La Puente,CA",Los Angeles,US,"34.02, -117.9495",34.02,-117.9495
+91748,47084,1211.8,Rowland Heights,California,CA,"Rowland Heights,CA",Los Angeles,US,"33.9818, -117.8969",33.9818,-117.8969
+91749,47084,1211.8,La Puente,California,CA,"La Puente,CA",Los Angeles,US,"34.02, -117.9495",34.02,-117.9495
+91750,33836,508.5,La Verne,California,CA,"La Verne,CA",Los Angeles,US,"34.1159, -117.7708",34.1159,-117.7708
+91754,33058,2787.8,Monterey Park,California,CA,"Monterey Park,CA",Los Angeles,US,"34.0534, -118.1271",34.0534,-118.1271
+91755,27734,3417.3,Monterey Park,California,CA,"Monterey Park,CA",Los Angeles,US,"34.048, -118.115",34.048,-118.115
+91756,27734,3417.3,Monterey Park,California,CA,"Monterey Park,CA",Los Angeles,US,"34.0625, -118.1228",34.0625,-118.1228
+91759,374,2.2,Mt Baldy,California,CA,"Mt Baldy,CA",Los Angeles,US,"33.7866, -118.2987",33.7866,-118.2987
+91765,47139,948.1,Diamond Bar,California,CA,"Diamond Bar,CA",Los Angeles,US,"34.0066, -117.8098",34.0066,-117.8098
+91766,72332,2718.6,Pomona,California,CA,"Pomona,CA",Los Angeles,US,"34.0418, -117.7569",34.0418,-117.7569
+91767,50264,3301.1,Pomona,California,CA,"Pomona,CA",Los Angeles,US,"34.0812, -117.7362",34.0812,-117.7362
+91768,35389,1541.6,Pomona,California,CA,"Pomona,CA",Los Angeles,US,"34.0662, -117.7763",34.0662,-117.7763
+91769,35389,1541.6,Pomona,California,CA,"Pomona,CA",Los Angeles,US,"34.0553, -117.7523",34.0553,-117.7523
+91770,63425,3732.9,Rosemead,California,CA,"Rosemead,CA",Los Angeles,US,"34.0658, -118.0853",34.0658,-118.0853
+91771,63425,3732.9,Rosemead,California,CA,"Rosemead,CA",Los Angeles,US,"34.0806, -118.0728",34.0806,-118.0728
+91772,63425,3732.9,Rosemead,California,CA,"Rosemead,CA",Los Angeles,US,"34.0806, -118.0728",34.0806,-118.0728
+91773,34496,894.0,San Dimas,California,CA,"San Dimas,CA",Los Angeles,US,"34.1023, -117.8169",34.1023,-117.8169
+91775,25192,3018.9,San Gabriel,California,CA,"San Gabriel,CA",Los Angeles,US,"34.1155, -118.0857",34.1155,-118.0857
+91776,38410,4362.9,San Gabriel,California,CA,"San Gabriel,CA",Los Angeles,US,"34.089, -118.0955",34.089,-118.0955
+91778,38410,4362.9,San Gabriel,California,CA,"San Gabriel,CA",Los Angeles,US,"34.0961, -118.1058",34.0961,-118.1058
+91780,35351,3464.2,Temple City,California,CA,"Temple City,CA",Los Angeles,US,"34.1016, -118.0537",34.1016,-118.0537
+91788,53849,2206.9,Walnut,California,CA,"Walnut,CA",Los Angeles,US,"34.0203, -117.8653",34.0203,-117.8653
+91789,44474,1063.9,Walnut,California,CA,"Walnut,CA",Los Angeles,US,"34.0183, -117.8546",34.0183,-117.8546
+91790,45206,3003.7,West Covina,California,CA,"West Covina,CA",Los Angeles,US,"34.0673, -117.9366",34.0673,-117.9366
+91791,34363,1886.3,West Covina,California,CA,"West Covina,CA",Los Angeles,US,"34.0653, -117.8978",34.0653,-117.8978
+91792,29839,3100.6,West Covina,California,CA,"West Covina,CA",Los Angeles,US,"34.0229, -117.8975",34.0229,-117.8975
+91793,29839,3100.6,West Covina,California,CA,"West Covina,CA",Los Angeles,US,"34.0686, -117.939",34.0686,-117.939
+91801,54479,4672.3,Alhambra,California,CA,"Alhambra,CA",Los Angeles,US,"34.0914, -118.1293",34.0914,-118.1293
+91802,54479,4672.3,Alhambra,California,CA,"Alhambra,CA",Los Angeles,US,"34.0953, -118.127",34.0953,-118.127
+91803,30385,3584.5,Alhambra,California,CA,"Alhambra,CA",Los Angeles,US,"34.0745, -118.1434",34.0745,-118.1434
+91804,30385,3584.5,Alhambra,California,CA,"Alhambra,CA",Los Angeles,US,"34.0953, -118.127",34.0953,-118.127
+91896,30385,3584.5,Alhambra,California,CA,"Alhambra,CA",Los Angeles,US,"34.0953, -118.127",34.0953,-118.127
+91899,30385,3584.5,Alhambra,California,CA,"Alhambra,CA",Los Angeles,US,"34.0953, -118.127",34.0953,-118.127
+93510,7626,42.9,Acton,California,CA,"Acton,CA",Los Angeles,US,"34.4835, -118.1959",34.4835,-118.1959
+93532,2871,10.0,Lake Hughes,California,CA,"Lake Hughes,CA",Los Angeles,US,"34.6847, -118.5442",34.6847,-118.5442
+93534,39088,856.2,Lancaster,California,CA,"Lancaster,CA",Los Angeles,US,"34.6909, -118.1491",34.6909,-118.1491
+93535,72948,107.8,Lancaster,California,CA,"Lancaster,CA",Los Angeles,US,"34.7131, -117.8783",34.7131,-117.8783
+93536,72383,112.8,Lancaster,California,CA,"Lancaster,CA",Los Angeles,US,"34.7471, -118.3687",34.7471,-118.3687
+93539,72383,112.8,Lancaster,California,CA,"Lancaster,CA",Los Angeles,US,"34.698, -118.1367",34.698,-118.1367
+93543,15135,84.7,Littlerock,California,CA,"Littlerock,CA",Los Angeles,US,"34.4891, -117.9708",34.4891,-117.9708
+93544,1181,4.4,Llano,California,CA,"Llano,CA",Los Angeles,US,"34.493, -117.7543",34.493,-117.7543
+93550,77006,147.5,Palmdale,California,CA,"Palmdale,CA",Los Angeles,US,"34.4133, -118.0917",34.4133,-118.0917
+93551,51085,268.2,Palmdale,California,CA,"Palmdale,CA",Los Angeles,US,"34.6017, -118.231",34.6017,-118.231
+93552,40266,303.9,Palmdale,California,CA,"Palmdale,CA",Los Angeles,US,"34.5715, -118.0231",34.5715,-118.0231
+93553,1781,9.5,Pearblossom,California,CA,"Pearblossom,CA",Los Angeles,US,"34.4225, -117.9055",34.4225,-117.9055
+93563,408,3.7,Valyermo,California,CA,"Valyermo,CA",Los Angeles,US,"34.3966, -117.7604",34.3966,-117.7604
+93584,408,3.7,Lancaster,California,CA,"Lancaster,CA",Los Angeles,US,"34.698, -118.1367",34.698,-118.1367
+93586,408,3.7,Lancaster,California,CA,"Lancaster,CA",Los Angeles,US,"34.698, -118.1367",34.698,-118.1367
+93590,408,3.7,Palmdale,California,CA,"Palmdale,CA",Los Angeles,US,"34.5794, -118.1165",34.5794,-118.1165
+93591,6579,34.1,Palmdale,California,CA,"Palmdale,CA",Los Angeles,US,"34.6019, -117.8123",34.6019,-117.8123
+93599,77,0.2,Palmdale,California,CA,"Palmdale,CA",Los Angeles,US,"34.5794, -118.1165",34.5794,-118.1165
