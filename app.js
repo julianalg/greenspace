@@ -66,14 +66,14 @@ app.use(
     data = Object.keys(response).reduce((obj, key) => ({... obj, [key]:response[key][Object.keys(response[key])[0]]}), {});
 
     city = data["City"]
-    temperature = data["Temperature"],
-    airQuality = data["Air Quality"],
-    population = data["Population"],
-    density = data["Population Density"],
-    precipitation = data["Precipation"],
-    landUse = data["Land Type"],
+    temperature = data["Temperature"]
+    airQuality = data["Air Quality"]
+    population = data["Population"]
+    density = data["Population Density"]
+    precipitation = data["Precipation"]
+    landUse = data["Land Type"]
     cities = cities
-
+    zipCode = data["Zip Code"]
     
     res.render('index.ejs', {
       temperature: data["Temperature"],
@@ -82,7 +82,8 @@ app.use(
       density: data["Population Density"],
       precipitation: data["Precipation"],
       landUse: data["Land Type"],
-      cities: cities
+      cities: cities,
+      zipCode: zipCode
     })
     
   })
@@ -107,6 +108,7 @@ app.use(
   let landUse = 0;
   let cities = [];
   let hasPark = 0;
+  let zipCode = 0;
   
   app.get('/', (req, res) => {
     Axios.get("http://127.0.0.1:5000/cities").then(response => {
@@ -122,7 +124,8 @@ app.use(
       density: density,
       precipitation: precipitation,
       landUse: landUse,
-      cities: cities
+      cities: cities,
+      zipCode: 91950
     });
   })
   .catch(error => {
