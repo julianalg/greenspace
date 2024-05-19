@@ -1,6 +1,6 @@
 $(document).ready(function(event) {
-  $('button').on('click', async function() {
-    console.log("generating...")
+  $('button[data-toggle="modal"]').on('click', async function() {
+    console.log("generating...");
     
     $('#exampleModal').modal('show');
     const response = await fetch('/temperature-prompt');

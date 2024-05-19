@@ -62,10 +62,8 @@ const getPrompt = async (character, data, town) => {
   let temperature = 0;
   let airQuality = 0;
   let population = 0;
-  let childrenAndPets = 0;
-  let existingVegetation = 0;
+  let density = 0;
   let precipitation = 0;
-  let mentalHealth = 0;
   let landUse = 0;
   
   app.get('/', (req, res) => {
@@ -73,10 +71,8 @@ const getPrompt = async (character, data, town) => {
       temperature: temperature,
       airQuality: airQuality,
       population: population,
-      childrenAndPets: childrenAndPets,
-      existingVegetation: existingVegetation,
+      density: density,
       precipitation: precipitation,
-      mentalHealth: mentalHealth,
       landUse: landUse
     });
   });
